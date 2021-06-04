@@ -1,0 +1,38 @@
+﻿	1. játékos	2. játékos						
+golyók:	pspzpppkpfprkrf	ppppbpppfpfszb		szín	színjel	érték	1. játékos	2. játékos
+1				piros	p	1		
+2				sárga	s	2		
+3				zöld	z	3		
+4				barna	b	4		
+5				kék	k	5		
+6				rózsaszín	r	6		
+7				fekete	f	7		
+8				találatok száma:				
+9				pontszám:				
+10								
+11								
+12								
+13								
+14								
+15								
+16								
+17								
+18								
+19								
+20								
+21								
+22								
+23								
+24								
+25								
+26								
+27								
+28								
+29								
+30								
+31								
+32								
+33								
+34								
+35								
+36								

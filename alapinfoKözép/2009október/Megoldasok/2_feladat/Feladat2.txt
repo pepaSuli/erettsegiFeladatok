@@ -1,0 +1,53 @@
+program Feladat2;
+
+{$APPTYPE CONSOLE}
+{
+ Informatikai alapismeretek
+ Középszint
+ 2. feladat
+}
+
+uses
+  SysUtils,Math;
+Var Bin:String[16];
+    Hex:String[5];
+    I:Byte;
+
+Function BinToHex(B:String):Char;
+Var I,E,H:Byte;
+Begin
+  // 4 bites szám átváltása 10-esbe
+  E:=0; H:=1;
+  For I:=4 DownTo 1 Do
+    Begin
+      E:=E+H*StrToInt(B[I]);
+      H:=H*2;
+    End;
+
+  // Átváltás 16-osba
+  If (E<10)
+    Then
+      BinToHex:=Chr(E+48)
+    Else
+      BinToHex:=Chr(E+55);
+End;
+
+begin
+  Write(' Adja meg a szamot binaris alakban, 16 biten: ');ReadLn(Bin);
+
+  Hex:='$';
+  For I:=1 to 4 do
+    Begin
+      Hex:=Hex+BinToHex(Copy(Bin,(I-1)*4+1,I*4));
+    End;
+
+  WriteLn;
+  Write(' A szam hexadecimalis formaban: '+Hex);
+
+  WriteLn;
+  WriteLn(' A kilepeshez usson Enter-t!');
+  Readln;
+
+end.
+
+

@@ -1,0 +1,56 @@
+﻿cím	megjelenés	műfaj	hossz (perc)	Tetszésindex	
+Amerikai ének	2008	vígjáték	83	4,3	
+Távkapcs	2006	vígjáték	107	6,4	
+Lopott szavak	2012	dráma	97	6,9	
+Fekete arany	2011	kaland	130	6,6	
+Habostorta	2005	vígjáték	94	4,8	
+Lélektől lélekig	2005	dráma	122	6,4	
+Tökéletlen igazság	2010	életrajz	85	6,2	
+A pankrátor	2008	dráma	109	8	
+Invictus	2009	életrajz	134	7,3	
+Stitch	2003	animáció	60	5,8	
+Csiribí-csiribá	2005	családi	86	5,2	
+Csiribí-csiribá 2.	2007	családi	83	5,1	
+18 évvel később	2010	vígjáték	107	6,7	
+Baj-társak	2002	akció	92	4,2	
+Az emlékezés napja	2011	akció	104	5,6	
+Világok harca	2005	akció	116	6,5	
+A hobbit	2012	kaland	169	8,2	
+Én a robot	2004	akció	115	7	
+Visszavonuló	2009	vígjáték	90	6,4	
+Hősök szakasza	2013	akció	96	5,1	
+Kitört a vakáció	2005	vígjáték	90	3,8	
+Alex Cross	2012	akció	101	4,9	
+A 19. feleség	2010	dráma	86	5,2	
+A rend	2012	thriller	91	5,3	
+Ki hal a végén	2010	bűnügyi	88	5	
+5 nap háború	2011	akció	108	5,6	
+Isten városa	2002	bűnügyi	130	8,7	
+Az élőhalottak éjszakája	2006	horror	80	3,2	
+A cápák visszatérnek	2005	horror	92	2,3	
+Tranzit	2012	bűnügyi	88	5,7	
+Pókember	2002	akció	121	7,3	
+A gyilkos médium	2012	dráma	113	6,1	
+A boldogság nyomában	2006	életrajz	117	7,8	
+Az újabb gombháború	2011	kaland	100	5,6	
+Újra lökd a ritmust!	2010	dráma	87	3,5	
+A boldogság sosem jár egyedül	2012	vígjáték	110	6,2	
+Jégkorszak 3.	2009	animáció	94	7	
+A másik én	2007	bűnügyi	122	6,8	
+Azonosság	2003	thriller	90	7,2	
+Jégkorszak 2.	2006	animáció	91	6,8	
+Jégkorszak	2002	animáció	81	7,5	
+A köd	2005	horror	100	3,5	
+Így jártam én	2012	vígjáték	97	6,7	
+Őrült szív	2009	dráma	112	7,3	
+Harry Potter és a halál ereklyéi 1.	2010	kaland	146	7,6	
+Harry Potter és a félvér herceg	2009	kaland	153	7,3	
+Harry Potter és a halál ereklyéi 2.	2011	kaland	130	8,3	
+Harry Potter és a titkok kamrája	2002	kaland	161	7,2	
+Harry Potter és a tűz serlege	2005	kaland	157	7,5	
+Harry Potter és a Főnix rendje	2007	kaland	138	7,3	
+Harry Potter és az azkabani fogoly	2004	kaland	135	7,7	
+Jégkorszak 4.	2012	animáció	94	6,6	
+A gyűrűk ura - A gyűrű szövettsége	2001	kaland	178	8,8	
+A gyűrűk ura - A két torony	2002	kaland	179	8,6	
+A gyűrűk ura - A király visszatér	2003	kaland	201	8,9	

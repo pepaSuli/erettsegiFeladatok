@@ -1,0 +1,6 @@
+"DSK";"Debreceni Sportolók Köre"
+"FTC";"Ferencvárosi Torna Club"
+"GYSC";"Gyõri Sport Club"
+"MTK";"Magyar Testgyakorlók Köre"
+"SZTC";"Szegedi Torna Club"
+"UTE";"Újpesti Torna Egylet"

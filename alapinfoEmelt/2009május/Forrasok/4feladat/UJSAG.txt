@@ -1,0 +1,6 @@
+1;"Hajnalpír";"napilap";100000,00;1037
+2;"Heti Harapófogó";"hetilap";52000,00;2600
+3;"Asztali Esszé";"folyóirat";20000,00;2600
+4;"Kalmár Híradó";"periodika";100,00;1027
+5;"A Mi Hetünk";"hetilap";70000,00;9400
+6;"Esthajnalcsillag";"napilap";342000,00;1037

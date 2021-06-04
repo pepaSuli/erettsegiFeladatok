@@ -1,0 +1,19 @@
+﻿Moszkva	0
+Nyizsnyij Novgorod	442
+Kirov	956
+Perm	1436
+Európa határa	1777
+Jekatyerinburg	1816
+Tyumeny	2138
+Omszk	2712
+Novoszibirszk	3335
+Krasznojarszk	4098
+Irkutszk	5185
+Ulan-Ude	5642
+Transzmongol vasútvonal	5655
+Csita	6199
+Tarskaja	6312
+Birobidzsan	8351
+Habarovszk	8521
+Usszurijszk	9177
+Vlagyivosztok	9288

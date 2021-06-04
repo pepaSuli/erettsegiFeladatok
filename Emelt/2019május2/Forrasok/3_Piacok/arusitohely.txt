@@ -1,0 +1,67 @@
+id	nev	tipus	megye	telepules	irszam	cim
+1	Napi élelmiszerpiac	piac	Somogy	Balatonboglár	8630	Dózsa utca
+2	Állat- és kirakodóvásár	vásár	Somogy	Balatonboglár	8630	Zrínyi utca, Major
+3	Élelmiszerpiac	piac	Somogy	Balatonlelle	8638	Rákóczi utca
+4	Őstermelői piac	termelői piac	Somogy	Balatonmáriafürdő	8647	Fizető strand
+5	Vásárcsarnok, Helyi kirakodóvásár	piac és vásárcsarnok	Somogy	Barcs	7570	1819/53 hrsz.
+6	Petörke Portéka	termelői piac	Somogy	Bárdudvarnok	7478	Petörke-tó partja
+7	Községi piac 	piac	Tolna	Báta	7149	Fő utca 159.
+8	Piac	piac	Tolna	Bátaszék	7140	Kossuth utca
+9	Rákóczi utcai piac	piac	Tolna	Bonyhád	7150	Rákóczi utca
+10	Országos állat- és kirakodóvásár	vásár	Tolna	Bonyhád	7150	1029 hrsz.
+11	Piac	piac	Tolna	Dombóvár	7200	Petőfi utca 11.
+12	Állatvásár	vásár	Tolna	Dombóvár	7200	Teleki utca
+13	Kirakodó vásár	vásár	Tolna	Dombóvár	7200	Dózsa György utca 1.
+14	Vegyes termékek árusítása	piac	Tolna	Fadd	7133	Mátyás király utca 32.
+15	Országos állat- és kirakodóvásár	vásár	Tolna	Fadd	7133	Mátyás király utca nyugati végén lévő közterület
+16	Piaccsarnok, vásár	piac és vásárcsarnok	Somogy	Fonyód	8640	8053 hrsz, 8044/10-13, 10235, 10236, 10242 hrsz.
+17	Piac	piac	Baranya	Harkány	7815	Ady Endre utca
+18	Heti piac	piac	Tolna	Hőgyész	2053	
+19	Országos állat- és kirakodóvásár	vásár	Tolna	Hőgyész	2053	
+20	Őstermelői piac	termelői piac	Somogy	Kaposmérő	7521	Rákóczi utca 41/a. Faluház előtti terület
+21	Élelmiszerpiac és vásárcsarnok	piac	Somogy	Kaposvár	7400	Laktanya utca 5.
+22	Élelmiszerpiac	piac	Somogy	Kaposvár	7400	Arany tér 7.
+23	Állandó heti vásár	vásár	Somogy	Kaposvár	7400	Vásártéri utca 2.
+24	Kaposvári Nagypiac	piac és vásárcsarnok	Somogy	Kaposvár	7400	Baross Gábor utca 5-13. 
+25	Piac	piac	Somogy	Karád	8676	Semmelweis téri közterület 
+26	Országos kirakódóvásár	vásár	Somogy	Karád	8676	Somogymeggyes útszakasz és a Vásártér utcaközötti terület
+27	Vásárcsarnok	piac és vásárcsarnok	Baranya	Komló	7300	Berek utca 14.
+28	Piac	piac	Baranya	Magyarszék	7396	Sporttelep önkormányzati tulajdonú területen (185 hrsz.)
+29	Élelmiszerpiac, vásár	piac	Somogy	Marcali	8700	1638/130 hrsz.
+30	Piaccsarnok	piac és vásárcsarnok	Somogy	Marcali	8700	1638/31 hrsz.
+31	Városi piac	piac	Baranya	Mohács	7700	Városi piac kerítésen belüli része
+32	Országos állat- és kirakodóvásár	vásár	Baranya	Mohács	7700	budapesti országút 3683/4, 16/1 és 3678. hrsz. 
+33	Mozsgói piac	termelői piac	Baranya	Mozsgó	7932	Batthyány utca, Sportpálya
+34	Élelmiszerpiac és kirakodóvásár	piac	Somogy	Nagyatád	7500	Piac tér
+35	Piactér, vásárcsarnok	piac és vásárcsarnok	Somogy	Nagyatád	7500	Kolozsvári utca
+36	Heti kirakodó és élelmiszerpiac	piac	Tolna	Ozora	7086	Szabadság tér
+37	Országos kirakodóvásár	vásár	Tolna	Ozora	7086	a benzinkút mögött
+38	Állat- és kirakodóvásár	vásár	Somogy	Ötvöskónyi	7511	0129/15 hrsz
+39	Hetipiac	piac	Tolna	Paks	7030	Villany utca 2.
+40	Biópiac	biopiac	Baranya	Pécs	7622	Bajcsy-Zsilinszky utca 25.
+41	Vásárcsarnok	vásárcsarnok	Baranya	Pécs	7622	Bajcsy-Zsilinszky utca 25.
+42	Diana téri piac	piac	Baranya	Pécs	7632	Diana tér
+43	Uránvárosi piac	piac	Baranya	Pécs	7632	Hajnóczy utca 1.
+44	Vásártér  	piac	Baranya	Pécs	7632	Móra Ferenc utca 
+45	Élelmiszerpiac és kirakodóvásár	piac	Somogy	Ságvár	8654	Hrsz. 157, 158
+46	Kirakodóvásár	vásár	Somogy	Ságvár	8654	Hrsz. 157, 158
+47	Piac	piac	Baranya	Sellye	7960	Bodonyi Nándor utca
+48	Vásár	vásár	Baranya	Sellye	7960	Sport utca déli részén lévő terület
+49	Piac, vásárcsarnok	piac és vásárcsarnok	Baranya	Siklós	7800	Mária utca, Dózsa György utca és a Táncsics Mihály utcák
+50	Heti piac	piac	Tolna	Simontornya	7081	Hunyadi utca
+51	Országos állat- és kirakodóvásár	vásár	Tolna	Simontornya	7081	Arany János utca
+52	Siófoki Vásárcsarnok	vásárcsarnok	Somogy	Siófok	8600	Vámház utca 2.
+53	Siófoki Bioudvar	biopiac	Somogy	Siófok	8601	Széchenyi utca 6/a.
+54	Termelői piac és kézműves vásár	termelői piac	Somogy	Szántódpuszta	8622	70-es út mellett
+55	Helyi piac 	piac	Baranya	Szászvár	7349	Faluház udvara
+56	Országos  kirakodó- és  autóvásár	vásár	Baranya	Szászvár	7349	
+57	Déli piac	piac	Tolna	Szekszárd	7100	Béri Balogh Ádám utca
+58	Központi piac	piac	Tolna	Szekszárd	7100	Várköz utca
+59	Szekszárdi Vásár	vásár	Tolna	Szekszárd	7100	Aranytó utcai Vásártér (3785-3787 hrsz.)
+60	Piac, heti kirakodóvásár	piac	Baranya	Szigetvár	7900	Istvánffy utca
+61	Országos állat- és kirakodóvásár	vásár	Baranya	Szigetvár	7900	960 hrsz. alatt nyilvántartott földterület
+62	Piac	piac	Somogy	Tab	8660	Vörösmarty utca
+63	Állat- és kirakodóvásár	vásár	Somogy	Tab	8660	Kossuth Lajos utca
+64	Városi piac	piac	Tolna	Tolna	7130	Hősök tere 1.
+65	Hétközi piac	piac	Tolna	Tolna	7130	Piactér
+66	Piac	piac	Somogy	Zamárdi	8621	Siófoki út

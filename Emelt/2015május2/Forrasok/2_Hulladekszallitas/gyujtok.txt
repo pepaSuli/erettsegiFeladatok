@@ -1,0 +1,33 @@
+﻿Címek	x (m)	y (m)	Utolsó szállítás	Távolság (m)		Feldolgozó központ				
+Dagály utca 8.	-7745	-5838	2012. 3. 12.			xk	321			
+Árva utca 1.	9557	8765	2012. 2. 15.			yk	-98			
+Dráva utca 2.	1265	-9735	2012. 2. 25.							
+Klapka utca 14.	7055	-1460	2012. 2. 15.					Tervezett úthossz:		
+Hullám utca 29. 	-1156	-8944	2012. 2. 24.					Legtávolabbi távolsága:		
+Pilis utca 167.	-3015	-7086	2012. 2. 18.					Legtávolabbi címe:		
+Esztergom út 43.	6030	-6391	2012. 2. 17.							
+Béke utca 129.	9298	4607	2012. 3. 1.					Sürgős szállítási címek	Címek	Utolsó szállítás
+Vértes utca	3662	2802	2012. 2. 13.							
+Bakony utca 5.	-8163	273	2012. 3. 10.							
+Szobor utca 4-8.	7303	5847	2012. 2. 27.							
+Szikla utca 4.	-9260	4297	2012. 3. 8.							
+Mura utca 1.	8924	1048	2012. 3. 8.							
+Gyöngyös utca 51.	-3010	1120	2012. 2. 23.							
+Bakony utca 2.	-4982	-7592	2012. 2. 25.							
+Hajdú utca 48.	-7715	9182	2012. 2. 18.							
+Mecsek tér 30-36.	-2005	1669	2012. 2. 18.							
+Somló út 24.	-5265	1899	2012. 2. 21.							
+Jakab utca 2.	-6100	656	2012. 2. 24.							
+Kassák utca 66.	-3765	6976	2012. 3. 3.							
+Bodor u. 12.	7820	5050	2012. 3. 8.							
+Szegedi utca 31.	-6890	1123	2012. 3. 19.							
+Gyermek tér 7. 	4764	-4776	2012. 3. 6.							
+Vőlegény utca 12.	-6190	-6769	2012. 2. 25.							
+Süll utca 9.	9087	-2656	2012. 3. 4.							
+Göncöl utca 41-43.	9186	9423	2012. 3. 16.							
+Szegedi utca 23.	1543	-339	2012. 3. 26.							
+Tisza tér 4.	2406	-1125	2012. 3. 9.							
+Salgó út 23.	-7591	-7613	2012. 3. 1.							
+Révész utca 12.	9812	-6644	2012. 3. 13.							
+Bajai sétány 23.	4545	-2200	2012. 3. 15.							
+Tó utca 2.	-3021	1118	2012. 3. 7.							

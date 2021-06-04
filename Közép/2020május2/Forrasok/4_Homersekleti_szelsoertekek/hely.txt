@@ -1,0 +1,147 @@
+az	nev	teruletresz	megye
+1	Bugac		Bács-Kiskun
+2	Keszthely		Zala
+3	Sárospatak		Borsod-Abaúj-Zemplén
+4	Kecskemét	külterület	Bács-Kiskun
+5	Szeged	külterület	Csongrád
+6	Kapuvár	Hövej	Győr-Sopron-Moson
+7	Putnok		Borsod-Abaúj-Zemplén
+8	Siófok		Somogy
+9	Szendrőlád		Borsod-Abaúj-Zemplén
+10	Hidasnémeti		Borsod-Abaúj-Zemplén
+11	Budapest	Újpest	Budapest
+12	Debrecen		Hajdú-Bihar
+13	Jászberény		Jász-Nagykun-Szolnok
+14	Makó		Csongrád
+15	Vásárosnamény		Szabolcs-Szatmár-Bereg
+16	Kecskemét	K-puszta	Bács-Kiskun
+17	Nagy-Hideg-hegy		Pest
+18	Kelebia		Bács-Kiskun
+19	Szekszárd		Tolna
+20	Szokolya	Királyrét	Pest
+21	Székesfehérvár		Fejér
+22	Szombathely		Vas
+23	Békéscsaba	Nagyrét	Békés
+24	Szolnok	repülőtér	Jász-Nagykun-Szolnok
+25	Békéscsaba		Békés
+26	Soltvadkert		Bács-Kiskun
+27	Somogyszob		Somogy
+28	Homokszentgyörgy	Mariettapuszta	Somogy
+29	Szolnok	Alcsisziget	Jász-Nagykun-Szolnok
+30	Baja		Bács-Kiskun
+31	Pátyod		Szabolcs-Szatmár-Bereg
+32	Pápa	Kisacsád	Veszprém
+33	Dunaújváros	Kisapostag	Fejér
+34	Pápa	repülőtér	Veszprém
+35	Miskolc		Borsod-Abaúj-Zemplén
+36	Kapuvár		Győr-Sopron-Moson
+37	Mezőhegyes		Békés
+38	Milota		Szabolcs-Szatmár-Bereg
+39	Orosháza		Békés
+40	Szeghalom		Békés
+41	Kompolt		Heves
+42	Pápa	Mezőgazdasági	Veszprém
+43	Nyíregyháza		Szabolcs-Szatmár-Bereg
+44	Eger		Heves
+45	Szentgotthárd		Vas
+46	Székesfehérvár	Sóstó	Fejér
+47	Pécs	Erzsébet	Baranya
+48	Tatabánya	Bánhida	Komárom-Esztergom
+49	Szentendre		Pest
+50	Győr		Győr-Sopron-Moson
+51	Szarvas	Bikazug	Békés
+52	Salgótarján		Nógrád
+53	Poroszló		Heves
+54	Nagykáta		Pest
+55	Szarvas		Békés
+56	Tiszabecs		Szabolcs-Szatmár-Bereg
+57	Kakucs		Pest
+58	Felcsút		Fejér
+59	Kékestető		Heves
+60	Záhony		Szabolcs-Szatmár-Bereg
+61	Zabar		Nógrád
+62	Szécsény		Nógrád
+63	Dobogókő		Pest
+64	Agárd		Fejér
+65	Fonyód		Somogy
+66	Örkény		Pest
+67	Letenye		Zala
+68	Kaposvár		Somogy
+69	Esztergom	Kertváros	Komárom-Esztergom
+70	Vámosmikola		Pest
+71	Borsodnádasd		Borsod-Abaúj-Zemplén
+72	Pécs	Mecsekalja	Baranya
+73	Cegléd		Pest
+74	Pécs	Egyetem	Baranya
+75	Tokaj		Borsod-Abaúj-Zemplén
+76	Túrkeve		Jász-Nagykun-Szolnok
+77	Kiskunmajsa		Bács-Kiskun
+78	Tiszaroff		Jász-Nagykun-Szolnok
+79	Zirc		Veszprém
+80	Kalocsa		Bács-Kiskun
+81	Sopron		Győr-Sopron-Moson
+82	Körmend		Vas
+83	Sopronhorpács		Győr-Sopron-Moson
+84	Sopron	Kuruc-domb	Győr-Sopron-Moson
+85	Kisvárda		Szabolcs-Szatmár-Bereg
+86	Baja	Csávoly	Bács-Kiskun
+87	Máza		Baranya
+88	Rajka		Győr-Sopron-Moson
+89	Pápa		Veszprém
+90	Pörböly		Tolna
+91	Szentgotthárd	Farkasfa	Vas
+92	Szeged	belterület	Csongrád
+93	Bácsalmás		Bács-Kiskun
+94	Budapest	Krisztina	Budapest
+95	Kisbér		Komárom-Esztergom
+96	Szamosangyalos	Csenger	Szabolcs-Szatmár-Bereg
+97	Kecskemét	Miklóstelep	Bács-Kiskun
+98	Tiszakécske		Bács-Kiskun
+99	Sellye		Baranya
+100	Pécs		Baranya
+101	Nagykanizsa		Zala
+102	Kiskunhalas		Bács-Kiskun
+103	Szigetvár		Baranya
+104	Kecskemét	belterület	Bács-Kiskun
+105	Győr	Likócs	Győr-Sopron-Moson
+106	Lenti		Zala
+107	Körösszakál		Hajdú-Bihar
+108	Szarvas	Kondorosvölgy	Békés
+109	Karcag	Tilalmas	Jász-Nagykun-Szolnok
+110	Kecskemét		Bács-Kiskun
+111	Tiszaújváros		Borsod-Abaúj-Zemplén
+112	Kiskunfélegyháza		Bács-Kiskun
+113	Marcali		Somogy
+114	Jósvafő		Borsod-Abaúj-Zemplén
+115	Mosonmagyaróvár		Győr-Sopron-Moson
+116	Fügöd		Borsod-Abaúj-Zemplén
+117	Rábagyarmat		Vas
+118	Paks		Tolna
+119	Alcsútdoboz		Fejér
+120	Komárom		Komárom-Esztergom
+121	Galyatető		Heves
+122	Romhány	Újtelep	Nógrád
+123	Zalaegerszeg		Zala
+124	Miskolc	Görömbölytapolca	Borsod-Abaúj-Zemplén
+125	Bátaapáti		Tolna
+126	Kistelek		Csongrád
+127	Lengyel		Tolna
+128	Mohács		Baranya
+129	Nyíregyháza	Napkor	Szabolcs-Szatmár-Bereg
+130	Iklódbördőce		Zala
+131	Miskolc	Avas	Borsod-Abaúj-Zemplén
+132	Nyírlugos		Szabolcs-Szatmár-Bereg
+133	Debrecen	Pallag	Hajdú-Bihar
+134	Gagyvendégi		Borsod-Abaúj-Zemplén
+135	Törökszentmiklós		Jász-Nagykun-Szolnok
+136	Bábolna		Komárom-Esztergom
+137	Hortobágy		Hajdú-Bihar
+138	Tata		Komárom-Esztergom
+139	Izsák		Bács-Kiskun
+140	Sopron	Fertőrákos	Győr-Sopron-Moson
+141	Békéscsaba	Fényes	Békés
+142	Balassagyarmat		Nógrád
+143	Túrkeve	Szeleshát	Jász-Nagykun-Szolnok
+144	Pitvaros		Csongrád
+145	Budapest	belterület	Budapest
+146	Sümeg		Veszprém

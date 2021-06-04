@@ -1,0 +1,5 @@
+1;"Megírthír"
+2;"Tudósítás"
+3;"Interjú"
+4;"Riport"
+5;"Publicisztika"

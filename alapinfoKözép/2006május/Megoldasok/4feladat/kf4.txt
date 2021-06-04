@@ -1,0 +1,68 @@
+INFORMATIKAI ALAPISMERETEK
+KÖZÉP SZINTÛ ÍRÁSBELI ÉRETTSÉGI VIZSGA
+2006. május 18.
+
+4. feladat
+
+Megoldás:
+
+
+A feladat tulajdonképpen három féle képpen is értelmezhetõ, ám az egyes értelmezések a nehézség tekintetében 
+nem térnek el egymástól. 
+A feladat többféle értelmezhetõségét az átlag fogalom pontos definíciójának hiánya okozza.
+Az átlag így lehet az összes jegy átlaga, az összes "Informatika Alapjai" jegy átlaga vagy az összes "Közép" szintû 
+"Informatika Alapjai" jegy átlaga.
+
+A feladat megfogalmazásában és a példa adatokban a "Szint" mezõ típusára vonatkozó definíció sem teljesen egyértelmû.
+Amennyiben egy adattípus logikai úgy értékei igaz (TRUE) vagy hamis (FALSE) lehet. A Kitûzõ által a szint mezõ 
+típusaként megadott {Közép, Emelt} pár viszont felsorolt típusra utal. Az SQL-nyelv egyes verziói azonban nem támogatják 
+a felsorolt típus használatát így az alábbi megoldásokban a Szint mezõ típusául CHAR(5)-öt alkalmazunk.
+Amennyiben a feladatok megoldója a Szint mezõ típusául logikai típust adott meg, 
+(Közép -> TRUE, Emelt -> FALSE hozzárendeléssel) a megoldásokban a (Szint='Közép') feltételek a (Szint) feltétellel 
+helyettesítendõek.
+
+A fentiekben felsorolt variánsok bármelyikére adott helyes megoldás teljes értékûnek tekinthetõ és elfogadható.
+
+
+
+Megoldás abban az esetben, ha az átlagot az összes jegy átlagaként értelmezzük:
+
+SELECT * 
+FROM Vizsga
+WHERE (Targy='Informatika Alapjai') AND 
+      (Szint='Közép')  AND 
+      (Jegy> (SELECT AVG(Jegy) 
+              FROM Vizsga
+             )
+      );
+
+Megoldás abban az esetben, ha az átlagot az összes Informatika Alapjai jegy átlagaként értelmezzük:
+
+SELECT * 
+FROM Vizsga
+WHERE (Targy='Informatika Alapjai') AND 
+      (Szint='Közép')  AND 
+      (Jegy> (SELECT AVG(Jegy) 
+              FROM Vizsga 
+              WHERE (Targy='Informatika Alapjai')
+             )
+      );
+
+Megoldás abban az esetben, ha az átlagot a közép szintû  Informatika Alapjai  jegyek átlagaként értelmezzük:
+
+SELECT * 
+FROM Vizsga
+WHERE (Targy='Informatika Alapjai') AND 
+      (Szint='Közép')  AND 
+      (Jegy> (SELECT AVG(Jegy) 
+              FROM Vizsga 
+              WHERE (Targy='Informatika Alapjai') AND
+                    (Szint='Közép')
+             )
+      );
+
+
+
+A megoldások az OpenOffice.org Base 2.0 szoftverben lettek elkészítve és ellenõrizve. A fenti adatbáziskezelõ SQL verziójában a szöveg konstansokat aposztrófok között kell megadni. 
+Más verziók esetén az aposztrófok helyett idézõjelek használhatóak.
+

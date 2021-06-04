@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+	<head>
+		<style>
+			.cella
+			{
+				width:50px;
+				height: 50px;
+				display: inline-block;
+				margin:0;
+				background-color: green;
+				font-size: 16px;
+			}
+			.sor
+			{
+				width:200px;
+				background-color: red;
+				font-size: 0;
+			}
+			#jatek
+			{
+			}
+			#jatek div
+			{
+			}
+			
+			
+		</style>
+	</head>
+	<body onload="init()">
+		<script>
+			
+			var jatek=[];
+			function init()
+			{
+				for(let i=0;i<4;i++)
+				{
+					jatek[i]=[];
+					for(let k=0;k<4;k++)
+					{
+						jatek[i][k]=i*4+k+1;
+					}
+				}
+				jatek[3][3]="";
+				
+				console.log(jatek);
+				kiir();
+				
+				let cellak=document.querySelectorAll(".sor .cella");
+				for(let i=0;i<cellak.length;i++)
+				{
+					cellak[i].addEventListener("click",function(){katt(i);});
+				}
+			}
+			
+			function katt(szam)
+			{
+				console.log(szam);
+				let x=szam%4;
+				let y=Math.floor(szam/4);
+				//console.log(x,y);
+				
+				if(y>0 && jatek[y-1][x]=="")
+				{
+					console.log("csere");
+				}
+				if(y<3 && jatek[y+1][x]=="")
+				{
+					console.log("csere");
+				}
+
+				if(x>0 && jatek[y][x-1]=="")
+				{
+					console.log("csere");
+				}
+				if(x<3 && jatek[y][x+1]=="")
+				{
+					console.log("csere");
+				}
+			}
+			
+			
+			function kiir()
+			{
+				let j=document.getElementById("jatek");
+				console.log(j);
+				
+				for(let i=0;i<j.childElementCount;i++)
+				{
+					for(let k=0;k<j.children[i].childElementCount;k++)
+					{
+						if(jatek[i][k]=="")
+						{
+							j.children[i].children[k].innerHTML="&nbsp;";	
+						}
+						else
+						{
+							j.children[i].children[k].innerHTML=jatek[i][k];	
+						}
+					}
+				}
+			}
+			
+		</script>
+		
+		<div id="jatek">
+
+			<div class="sor">
+				<div class="cella"></div><div class="cella"></div><div class="cella"></div><div class="cella"></div>
+			</div>
+			<div class="sor">
+				<div class="cella"></div><div class="cella"></div><div class="cella"></div><div class="cella"></div>
+			</div>
+			<div class="sor">
+				<div class="cella"></div><div class="cella"></div><div class="cella"></div><div class="cella"></div>
+			</div>
+			<div class="sor">
+				<div class="cella"></div><div class="cella"></div><div class="cella"></div><div class="cella"></div>
+			</div>
+		</div>
+	</body>
+</html>

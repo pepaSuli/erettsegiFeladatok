@@ -1,0 +1,18 @@
+S						S		Padlólap oldala	34
+K	K	K	K	K	K	K		A oldal	7
+K	K	K	K	K	K	K		B oldal	11
+	K	S	S	S	K	S		Terület
+	K	K	K	K	K	K		Üres terület
+	K	K	K	K	K	K		Lefedett terület
+	K	S	S	S	K	S
+K	K	K	K	K	K	K
+K	K	K	K	K
+S	K	S	S	S
+K	K	K	K	K
+								Szín	Csomagolás	Lapok	Dobozok száma	Többlet	Többlet
+								K	10
+								F	15
+								P	10
+								S	15
+								Z	10
+								Összesen:

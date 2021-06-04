@@ -1,0 +1,26 @@
+﻿Mai dátum			hónap	nap	ünnep
+Következő ünnep			1	1	Újév
+Hány nap múlva			3	8	Nőnap
+Választott ünnep			3	15	1848-as forradalom
+Hány nap múlva			5	1	A munka ünnepe
+			8	20	Államalapítás ünnepe
+			10	23	1956-os forradalom
+			11	1	Halottak napja
+			12	24	Szenteste
+			12	25	Karácsony első napja
+			12	26	Karácsony második napja
+			12	31	Szilveszter
+					
+					
+					ünnep
+					Újév
+					Nőnap
+					1848-as forradalom
+					A munka ünnepe
+					Államalapítás ünnepe
+					1956-os forradalom
+					Halottak napja
+					Szenteste
+					Karácsony első napja
+					Karácsony második napja
+					Szilveszter

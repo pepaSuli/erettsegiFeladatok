@@ -1,0 +1,27 @@
+﻿Cseppkő
+A mészkőhegyekben kialakuló barlangok kialakulása és a cseppkőképződés két ellentétes, de egy egyensúlyra vezető kémiai reakció következménye.
+A mészkő ugyan vízben nem, de savas vízben, például a szén-dioxid és a víz egyesülésével kialakult szénsavban föloldódik. Ez történik, amikor a szén-dioxid tartalmú esővíz beszivárog a mészkőhegy belsejébe. Ott "kioldja a hegyet", barlangot képez, miközben a folyamatban keletkező vízoldható kalcium-hidrogén-karbonát a vízzel együtt tovább csorog.
+CaCO3 + H2O + CO2  Ca(HCO3)2
+A barlang belsejében viszont, ha az ilyen, kalcium-hidrogén-karbonát tartalmú csordogáló víz például a megváltozott hőmérséklet miatt kevesebb szén-dioxidot tud feloldani, akkor a fenti egyensúlyi folyamat a visszaalakulás irányába tolódik. Így keletkezik a cseppkő.
+   Alaktani típusaik
+Függőcseppkő (sztalaktit): a barlangi kiválások leggyakoribb és legközismertebb típusa. A még le nem cseppent karsztvízből válik ki, így a barlangok mennyezeti részeiről jégcsapszerűen csüng alá.
+Állócseppkő (sztalagmit): a lehulló vízcseppekből kiváló, függőlegesen felfelé álló, domború aljú képződmény. Mérete és alakja a csepegés intenzitásától és az esés magasságától függ.
+Cseppkőoszlop (sztalagnát): a függő és a hozzá tartozó állócseppkő összenövésével alakul ki, azok formai jegyeit és kialakulásmódját őrzi.
+Fontos, hogy a cseppkövekhez ne érjenek hozzá a barlang látogatói, mert a kézről vékony zsírréteg tapad rá, ami gátolja a további növekedésben.
+   Néhány sztalaktitváltozat
+Cseppkőcsap: 10–15 cm hosszúságú, vaskos függőcseppkő.
+Drapéria: Áthajló felületen végigfolyó, a vízcseppekből kiváló, függönyszerűen lelógó képződmény. Fiatal, keskeny változata a cseppkőléc. A drapériák látványos fajtái a cseppkő zászlók.
+Heliktit (görbecseppkő): Látszólag ellentmond a gravitáció törvényének, kukac vagy horog alakú képződmény.
+Szalmacseppkő: A függőcseppkő embrionális változata. Vékony falú, csőszerű, törékeny képződmény.
+Csapatfeladat
+   Cseppkőbarlangok hazánkban
+Az alábbiakban csapatunk feladata található. Néhány barlang neve és GPS koordinátái láthatóak, de az adatok összekeveredtek. A mellékelt megoldáslapon adjátok meg a megfelelő párokat és dobjátok be a dobozba! A csapat nevét ne felejtsétek el ráírni a lapra!
+1	Aggteleki	A	N47.53284 E19.01613
+2	Abaligeti	B	N48.471841 E20.495311
+3	Pálvölgyi	C	N48.103759 E20.621501
+4	István	D	N46.13667 E18.116235
+Csapat neve:
+1
+2
+3
+4

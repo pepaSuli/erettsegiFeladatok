@@ -1,0 +1,15 @@
+﻿Hajítógépek
+A hajítógép állványra helyezett hideglőfegyver fajta, mechanikus szerkezet. A lőpor feltalálása előtt az ókor és a középkor meghatározó ostromgépe, illetve tábori tüzérsége volt. A hajítógépek a mechanikus energia tárolására és felszabadítására alkalmas szerkezetek, az egyszerű emberi erővel működtetett lövedékvetőkhöz képest nehezebb lövedékeket nagyobb távolságra képesek eljuttatni. A hajítógépeket az ókor és középkor során sok változatban és méretben használták, a görög és római seregek tábori tüzérségétől eltekintve ezek a szerkezetek a hadviselés hosszantartó ostromainak eszközei voltak.
+Típusai
+Rugós hajítógép
+A rugós hajítógépek egy vagy több rugalmas kar (íjnál kettő), illetve rétegelt falemez erejét használják nyíl vagy kő hajítására. Legelterjedtebb formái az állványra szerelt íjak voltak. A rugós hajítógépek a többi szerkezethez képest alacsony hatásfokúak
+Catapulta
+A torziós szálköteggel működő szerkezet, az ókor és a középkor legelterjedtebb és leghatékonyabb ostromgépe volt. Ezek a szerkezetek akár a 365 méter hatótávolságot is elérhették, a lövedékek tömege nem haladta meg a 22 kg-ot.
+Ballista
+A ballista nagyméretű számszeríjhoz hasonló szerkezet. Alkalmas volt nyilak és kövek pontos, alacsony röppályán való célba juttatására. Legfeljebb 4,5 kg tömegű lövedéket használva a lőtávolsága elérhette a 400 métert 
+Ellensúlyos hajítógépek
+A többi mechanikus szerkezethez képest, nagyobb hatótávolságon, nehezebb lövedékek kilövésére voltak képesek. A szerkezet gyorsasága és ereje a torziós erővel működtetett katapultokhoz képest elmaradt ugyan, de a hatalmas ellensúly és az erőkar hosszúsága és erős ácsolása lehetővé tette 100 kg-nál nehezebb lövedékek célba juttatását is.
+A ferde hajítás fizikája
+a kezdősebesség:v0
+a hajítás irányszöge:
+a hajítás távolsága:xmax

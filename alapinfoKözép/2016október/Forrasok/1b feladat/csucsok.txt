@@ -1,0 +1,42 @@
+﻿Hegycsúcs neve	Ország	Magasság	(láb)		1 láb =	0,3048
+Aconcagua	Argentína	6962
+Annapurna	Nepál	8091
+Batura Sar	Pakisztán	7795
+Buni Zom	Pakisztán	6542
+Chakragil	Kína	6760
+Chimborazo	Ecuador	6267
+Csomolungma	Nepál, Kína (Tibet)	8848
+Damávand	Irán	5610
+Denali	Egyesült Államok (Alaszka)	6168
+Dhaulagiri	Nepál	8167
+Dzsengis Csokuszu (Pobeda)	Kirgizisztán, Kína	7439
+Elbrusz	Oroszország	5642
+Gangkhar Puensum	Bhután, Kína	7570
+Gyala Peri	Kína (Tibet)	7294
+Iszmoilí Szomoní-csúcs	Tádzsikisztán	7495
+K2	Pakisztán	8611
+Kamet	India	7756
+Kancsendzönga	India, Nepál	8586
+Kilimandzsáró	Tanzánia	5895
+Koh-e Bandaka	Afganisztán	6812
+Kongur Tagh	Kína	7649
+Manaszlu	Nepál	8163
+Mercedario	Argentína	6720
+Minya Konka (Gongga-hegy)	Kína	7556
+Mount Logan	Kanada (Yukon)	5959
+Namjagbarwa	Kína (Tibet)	7782
+Nanda Devi	India	7816
+Nanga Parbat	Pakisztán	8125
+Ojos del Salado	Argentína, Chile	6893
+Pico Cristóbal Colón	Kolumbia	5700
+Pico de Orizaba	Mexikó	5636
+Rakaposhi	Pakisztán	7788
+Sisapangma	Kína	8027
+Tiricsmir	Pakisztán	7708
+Xuelian Feng	Kína	6627
+
+
+Nepálban, vagy határán lévő csúcsok száma:
+Pakisztáni hegycsúcsok magasságának átlaga:
+
+8000 m fölötti csúcsok:

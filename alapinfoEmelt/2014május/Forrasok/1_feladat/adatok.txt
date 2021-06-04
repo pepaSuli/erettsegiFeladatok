@@ -1,0 +1,27 @@
+﻿Vizsgázó neve	1180-06 Korszerű munkaszervezés	1181-06 Gazdálkodás, projektvezetés	2270-06 A fejlesztés előkészítése	1188-06 Web-alkalmazás tervezés	1189-06 Web-alkalmazás fejlesztés	A moduleredmények alapján súlyozott vizsgaeredmény (%)	Minősítés
+	15%	10%	15%	30%	30%		
+	Modul neve és súlya a vizsgán			
+	Moduleredmények (%)				
+Antal Arnold	56	98	74	86	59		
+Bertha Béla	86	71	55	77	74		
+Czirják Cintia	53	76	69	86	62		
+Dezső Dénes	82	64	69	96	56		
+Elek Edit	88	83	74	97	60		
+Földi Fruzsina	88	95	63	100	69		
+Gaál Gábor	64	55	100	61	67		
+Hideg Hedvig	88	65	90	76	57		
+Irsai Imre	66	85	81	92	58		
+Joó János	89	57	96	94	80		
+Kovács Kristóf	99	91	97	84	92		
+Lengyel Loránd	58	78	87	75	90		
+Magyar Máté	99	56	92	96	59		
+Nagy Nikolett	52	68	56	83	97		
+Orsós Ottília	53	78	84	67	66		
+Piros Péter	78	64	100	66	85		
+Rácz Róbert	70	82	84	98	70		
+Simon Sándor	53	69	97	80	84		
+Tar Tünde	95	75	91	98	85		
+Urszuly Ulrik	77	60	52	67	80		
+Vass Viktor	92	91	59	78	76		
+Zeke Zita	92	98	72	60	87		
+

@@ -1,0 +1,14 @@
+"CSAZON";"CSNEV";"LETREHOZO"
+0;"Túrista";23
+1;"Budapest";7
+2;"Balassagyarmat";32
+3;"Dobos";17
+4;"Biciklis";23
+5;"Bélyeggyûjtõ";16
+6;"Motoros";37
+7;"Borbarát";48
+8;"Sakkozó";25
+9;"Tájfutó";17
+10;"Geocaching";6
+11;"Vegetáriánus";32
+12;"Hegymászó";5

@@ -1,0 +1,20 @@
+TipusID;TipusNev
+1;bányató
+2;belvíz
+3;csatorna
+4;folyó
+5;halastó
+6;holtág, morotva
+7;horgásztó
+8;hulladéklerakó
+9;kavicsbányató
+10;kubikgödrök
+11;mocsár, láp
+12;patak
+13;rét, legelő
+14;szikes puszta
+15;szikes tó
+16;szikes-mocsaras rét
+17;tó
+18;ülepítő tó
+19;víztározó

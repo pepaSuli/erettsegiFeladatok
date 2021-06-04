@@ -1,0 +1,8 @@
+brAzon;brNev
+1;Balatoni borrégió
+2;Duna borrégió
+3;Egri borrégió
+4;Észak-dunántúli borrégió
+5;Pannon borrégió
+6;Soproni borrégió
+7;Tokaji borrégió

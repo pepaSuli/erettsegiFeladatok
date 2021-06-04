@@ -1,0 +1,93 @@
+﻿Szakasz	Útvonal	Távolság (km)	Szint (m)	Idő (perc)	Bejárás					Szakasz	Túrák száma	Táv (km)
+1	Írottkő - Hét-forrás	9,5	150	158	2011.11.23		Megtett út:					
+1	Hét-forrás - Kőszeg	5	100	85	2011.11.23		Gyaloglás ideje:					
+1	Kőszeg - Tömörd	13,8	90	216	2011.11.24		Első túra:					
+1	Tömörd - Ablánc malom	9	40	139	2011.11.24		Utolsó túra:					
+1	Ablánc malom - Szeleste	11,2	40	172	2010.12.13		Dátum:					
+1	Szeleste - Bögöt 	9	10	136	2010.12.12		Szakasz:					
+1	Bögöt - Csényeújmajor 	8,2	0	123	2010.12.12		Útvonal:					
+1	Csényeújmajor - Sárvár v.áll. 	4,5	0	68	2010.12.12		12. hónapban:					
+2	Sárvár v.áll. - Gérce	11,5	40	176	2010.01.25							
+2	Gérce - Rózsáskerti eh.	3	30	48	2010.01.25							
+2	Rózsáskerti eh. - Hidegkúti eh.	4,5	20	70	2010.01.25							
+2	Hidegkúti eh. - Káld	6,4	30	99	2010.01.25							
+2	Káld - Hosszúpereszteg 	11,2	60	174	2010.01.24							
+2	Hosszúpereszteg - Szajki eh. 	6,1	10	92	2010.01.24							
+2	Szajki eh. - Ötvös 	14,5	20	220	2013.10.28							
+2	Ötvös - Kisvásárhely 	8,9	50	138	2013.10.28							
+2	Kisvásárhely - Sümeg v.áll. 	5,8	20	89	2013.10.28							
+4	Keszthely - Vállus	12	250	205	2010.08.07							
+4	Vállus - Lesenceistvánd	6,8	220	124	2010.08.07							
+4	Lesenceistvánd - Tapolca	6,9	0	104	2010.08.07							
+5	Tapolca - Szt.Györgyh.th. 	5,2	190	97	2010.12.09							
+5	Szt.Györgyh.th. - Szigliget 	7,3	120	122	2010.12.09							
+5	Szigliget - B.tördemic v.áll. 	3,2	20	50	2010.12.09							
+6	B.tördemic v.áll. - Káptalantóti	10,8	420	204	2011.07.08							
+6	Káptalantóti - Szentbékkálla	9,3	260	166	2011.07.08							
+6	Szentbákkálla - Balatonhenye	6,8	300	132	2011.07.09							
+6	Balatonhenye - Csicsói eh.	6,1	220	113	2011.07.09							
+6	Csicsói eh. - Nagyvázsony	8	60	126	2011.07.09							
+7	Nagyvázsony - Kabhegy eh. 	10,4	330	188	2015.09.19							
+7	Kabhegy - Úrkút 	4	20	62	2015.09.19							
+7	Úrkút - Városlőd-Kislőd v.áll. 	7,8	50	122	2015.09.19							
+8	Városlőd-Kislőd v.áll. - Németbánya	11,6	180	192	2013.05.04							
+8	Németbánya - Bakonybél	8,4	160	142	2013.05.04							
+8	Bakonybél - Kőrishegy	6,7	510	152	2013.05.04							
+8	Kőrishegy - Borzavár	6	60	96	2013.05.04							
+8	Borzavár - Zirc	6	110	101	2013.05.04							
+9	Zirc - Bakonynána	9,5	80	150	2010.04.08							
+9	Bakonynána - Jásd	5	80	83	2010.04.08							
+9	Jásd - Csőszpuszta	4,2	350	98	2010.04.08							
+9	Csőszpuszta - Kisgyón	6,9	30	106	2010.04.07							
+9	Kisgyón - Bakonykúti	11,5	200	190	2010.04.07							
+9	Bakonykúti - Fehérvárcsurgó	8	250	145	2013.09.28							
+9	Fehérvárcsurgó - Csókakő vmh.	12	80	188	2013.09.28							
+11	Szárliget v.áll. - Somlyóvár	11,7	320	208	2012.08.06							
+11	Somlyóvár - Koldusszállás	8,4	80	134	2012.08.06							
+11	Koldusszállás - Bányahegyi eh. 	10,1	400	192	2013.09.08							
+11	Bányahegyi eh. - Gerecse üdülő	4,7	170	88	2013.04.27							
+11	Gerecse üdülő - Pusztamarót	2,4	40	40	2013.04.27							
+11	Pusztamarót - Péliföldszentkereszt	8,6	120	141	2013.04.27							
+11	Péliföldszentkereszt - Mogyorósbánya	5,2	260	104	2013.04.27							
+11	Mogyorósbánya - Tokodi bánya 	2,9	70	50	2013.05.11							
+11	Tokodi bánya - Dorog v.áll. 	13,2	490	247	2013.05.11							
+12	Dorog v.áll. - Kesztölc (Ny-i vége)	4,5	70	74	2011.01.12							
+12	Kesztölc - Klastrompuszta th.	5,9	200	200	2011.01.12							
+12	Klastrompuszta th. - Piliscsév	3	50	50	2011.01.12							
+12	Piliscsév - Piliscsaba v.áll.	5,2	120	120	2011.01.12							
+13	Piliscsaba v.áll. - Zsíroshegyi th.	11,9	420	220	2012.06.30							
+13	Zsíroshegyi th. - Hűvösvölgyi Úttörővasút áll.	9,8	60	153	2012.06.30							
+14	Hűvösvölgyi Úttörővasút áll. - Hármashatárhegy	8	350	155	2010.01.07							
+14	Hármashatárhegy - Csúcshegyi th.	3,5	100	62	2010.01.07							
+14	Csúcshegy - Bécsi út (18 sz. busz áll.)	2,4	0	36	2010.01.07							
+15	Bécsi út (18 sz. busz áll.) - Stromfeld A. th. 	6,3	480	142	2012.05.06							
+15	Stromfeld A. th. - Pilisszentkereszt 	12	170	197	2012.05.06							
+15	Pilisszentkereszt - Dobogókő th. 	4	350	95	2012.05.06							
+16	Dobogókő th. - Sikáros eh.	6	50	95	2011.08.17							
+16	Sikáros eh. - Pilisszentlászló	3,6	100	64	2011.08.17							
+16	Pilisszentlászló - Papréti eh.	3	140	59	2011.08.17							
+16	Papréti eh. - Nagy-Villám th.	8,8	220	154	2011.08.17							
+16	Nagy-Villám th. - Visegrád (komp)	2,8	0	42	2011.08.17							
+17	Nagymaros (komp) - Törökmezői th. 	10	480	198	2010.04.14							
+17	Törökmezői th. - Kisinóci th. 	7,9	190	138	2010.04.14							
+17	Kisinóci th. - Nagyhideghegyi th.	5,7	610	146	2012.05.28							
+17	Nagyhideghegyi th. - Nógrád v.áll.	14,5	330	250	2012.05.28							
+20	Mátraverebély v.mh. - Ágasvár th. 	7,4	550	166	2012.05.17							
+20	Ágasvár th. - Mátraszentistván 	4	130	73	2010.12.14							
+20	Mátraszentistván - Galyatető 	4,2	280	91	2010.12.14							
+20	Galyatető - Nyírjesi eh. 	4,8	20	74	2010.12.14							
+20	Nyírjesi eh. - Vörösmarty th. 	3,5	140	66	2010.12.14							
+20	Vörösmarty th. - Mátraháza 	2	50	35	2010.12.14							
+21	Mátraháza - Kékestető	2,4	330	69	2011.05.13							
+21	Kékestető - Hármashatár eh.	5,6	60	90	2011.05.13							
+21	Hármashatár eh. - Gazoskő	8,9	530	186	2011.05.13							
+21	Gazoskő - Sirok v.mh.	4,8	50	77	2011.05.13							
+22	Sirok v.mh. - Rozsnak pszt. eh.	7,5	190	132	2013.01.27							
+22	Rozsnak pszt. eh. - Szarvaskő v.áll.	10	150	165	2013.01.27							
+23	Szarvaskő v.áll. - Telekessy eh.	7,4	380	149	2013.05.01							
+23	Telekessy eh. - Cementgyár vmh.	3,6	60	60	2013.05.01							
+23	Cementgyár vmh. - Cserepeskői bg.	8	600	180	2011.03.22							
+23	Cserepeskői bg. - Bánkút	9,6	480	192	2011.03.22							
+24	Putnok v.áll. - Kelemér	10,7	220	182	2014.01.26							
+24	Kelemér - Zádorfalva	7,5	80	120	2014.01.26							
+24	Zádorfalva - Aggtelek bg.	11,8	180	195	2014.01.26							

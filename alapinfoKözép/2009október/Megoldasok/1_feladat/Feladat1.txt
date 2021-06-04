@@ -1,0 +1,66 @@
+program Feladat1;
+
+{$APPTYPE CONSOLE}
+{
+ Informatikai alapismeretek
+ Középszint
+ 1. feladat
+}
+
+Uses
+  SysUtils,Math;
+
+Const N=20;
+Var A:Array[1..N] of Integer;
+
+Function Prim(Szam:Integer):Boolean;
+Var I:Integer;
+    L:Boolean;
+Begin
+  L:=False;
+  I:=1;
+  While (I*I<Szam) And Not(L) Do
+    Begin
+      Inc(I);
+      L:=Szam Mod I=0;
+    End;
+  Prim:=Not(L);
+End;
+
+Procedure Generalas;
+Var I,Db:Byte;
+Begin
+  Repeat
+    Db:=0;
+    For I:=1 To N Do
+      Begin
+        A[I]:=RandomRange(2,100);
+        If Prim(A[I])
+          Then Inc(Db);
+      End;
+  Until (Db=5);
+End;
+
+Procedure Kiiras;
+Var I:Byte;
+Begin
+  WriteLn(' A sorozat: ');
+  Writeln;
+    For I:=1 To N Do
+      Begin
+        If Prim(A[I])
+          Then Writeln(A[I]:3,' (prim)')
+          Else Writeln(A[I]:3,' (nem prim)');
+      End;
+  WriteLn;
+  Writeln(' Nyomjon Enter-t a kilepeshez!');
+  Readln;
+End;
+
+begin
+Randomize;
+Generalas;
+Kiiras;
+End.
+
+

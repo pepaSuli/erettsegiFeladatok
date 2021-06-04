@@ -1,0 +1,39 @@
+INFORMATIKAI ALAPISMERETEK
+EMELT SZINTÛ ÍRÁSBELI ÉRETTSÉGI VIZSGA
+2006. május 18.
+
+4. feladat
+
+Megoldás:
+
+A Leltár adatbázis "2005" nevû táblájában, a szóközt tartalmazó "leltari_ szam" mezõnevet "leltari_szam"-ra javitjuk!
+A feladat az MS-ACESS JET SQL rendszerében megoldható a mezõnév javítása nélkül is ebben az esetben azonban 
+mindig a szóközt tartalmazó mezõkre vonatkozó szintaktikát kell követni. Egyes SQL verziók nem engedik meg
+a csak számokból álló táblanevet sem. Ebben az esetben a táblanév megváltoztatandó. (Pl: 2004 --> L2004) Az alább
+közölt megoldásoknál a JET SQL csak számokból álló azonosítókra vonatkozó szintaktikáját követtük.
+
+a.) SELECT * FROM 2004
+             WHERE leltari_szam NOT IN (SELECT leltari_szam FROM 2005);
+
+
+b.) SELECT * FROM 2005
+             WHERE leltari_szam NOT IN (SELECT leltari_szam FROM 2004);
+
+
+c.) SELECT Sum(ertek) AS HIANYERTEK 
+             FROM 2004
+             WHERE ((([2004].leltari_szam) Not In (SELECT leltari_szam FROM 2005)));
+
+
+d.) SELECT SUM(ertek) AS TOBBLETERTEK
+             FROM 2005
+             WHERE leltari_szam NOT IN (SELECT leltari_szam FROM 2004);
+
+e.) SELECT * FROM 2004, 2005
+                WHERE ([2004].leltari_szam =  [2005].leltari_szam) AND  
+                      ([2004].szoba <>  [2005].szoba);
+
+
+
+A megoldások az MS-OFFICE ACCESS 2003 SP2 szoftverben lettek elkészítve és ellenõrizve.
+ 

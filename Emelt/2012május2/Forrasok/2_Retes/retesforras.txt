@@ -1,0 +1,24 @@
+﻿Név	almás	meggyes	mákos	túros	tökös-mákos	diós	cseresznyés	rumos-szilvás	túros-barackos	Összesen	Fizetendő	Figyelem	Befizetés		
+	164	174	164	179	164	189	174	189	189						Fizetendő
+András	1		1												
+Joli															
+Anna							1								
+Tamás						2									
+Mari					1	1									
+Vera															
+Lili															
+István				1					1						
+Ágnes															
+Laci			1	1			1								
+Roland		1													
+Dávid				1					1						
+Viki				1					1						
+Mira	1														
+Panka			1			1									
+Kriszti		1			1										
+Gábor		1		1					1						
+Viktor	1					2									
+Bori		2													
+Áron				1		1									
+Darab															
+Hányan															

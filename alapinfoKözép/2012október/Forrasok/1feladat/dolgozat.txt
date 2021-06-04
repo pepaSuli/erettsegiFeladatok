@@ -1,0 +1,39 @@
+﻿Név:
+évfolyam:
+osztály:
+
+I. témazáró dolgozat
+Informatika
+
+Töltse ki az alábbi táblázatot!
+Decimális
+2010
+Bináris
+1001 1100 0011
+Hexadecimális
+1001 1100 0011
+ABC	
+(6 pont)
+
+Bizonyítsa be az alábbi logikai azonosságot az igazságtáblázat helyes kitöltésével!
+(5 pont)
+
+Nevezze meg a képen látható híres magyar informatikusokat és írja a nevük alá egy-egy fontos alkotásukat! 
+(6 pont)
+
+Javítsa ki az alábbi algoritmust úgy, hogy az egy N elemű, egész számokat tartalmazó tömbben megkeresse az első páratlan értéket!
+(5 pont)
+
+L:=igaz
+I:=1
+Ciklus amíg (I<=N) és (nem(L))
+Ha (A[I] div 2)=0
+akkor
+L:=igaz
+Ind:=0
+Elágazás vége
+Ciklus vége
+
+Pontszám
+Érdemjegy
+

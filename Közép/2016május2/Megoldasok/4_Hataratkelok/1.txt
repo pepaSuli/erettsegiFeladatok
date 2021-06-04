@@ -1,0 +1,40 @@
+2.
+SELECT magyarh, szomszedh
+FROM hatar
+WHERE orszag='Szerbia' and tipus='közúti'
+ORDER BY magyarh;
+
+
+3.
+SELECT DISTINCT magyarh
+FROM hatar, telepules
+WHERE magyarh=nev and telepules.tipus='község';
+
+4.
+SELECT orszag, Count(*) AS [Vasúti átkelõk száma]
+FROM hatar
+WHERE tipus='vasúti'
+GROUP BY orszag
+ORDER BY 2 DESC;
+
+5.
+SELECT DISTINCT h1.magyarh
+FROM hatar AS h1, hatar AS h2
+WHERE h1.magyarh=h2.magyarh and h1.tipus='közúti' and h2.tipus='vasúti';
+
+SELECT h1.magyarh
+FROM hatar AS h1, hatar AS h2
+WHERE h1.magyarh=h2.magyarh and h1.tipus='közúti' and h2.tipus='vasúti'
+GROUP BY h1.magyarh;
+
+SELECT DISTINCT magyarh
+FROM hatar
+WHERE magyarh in (SELECT magyarh FROM hatar WHERE tipus='vasúti')
+and tipus='közúti';
+
+SELECT DISTINCT hatar.magyarh
+FROM hatar, 6seged
+WHERE hatar.magyarh=[6seged].magyarh And hatar.tipus='közúti';
+SELECT magyarh
+FROM hatar
+WHERE tipus='vasúti';

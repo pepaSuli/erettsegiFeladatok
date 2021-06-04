@@ -1,0 +1,12 @@
+﻿				a legnagyobb távolság százaléka	távolság a dobóhelytől x (m)	eltelt idő t (s)	magasság az adott távolságnál y (m)	
+a hajítás kezdősebessége: v0	10			0%	0
+a hajítás irányszöge: (fok)	45			10%
+a hajítás irányszöge: (radián)				20%
+a gravitációs együttható: g	9,81			30%
+				40%
+a hajítás távolsága: xmax				50%
+				60%
+				70%
+				80%
+				90%
+				100%

@@ -1,0 +1,26 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8C35-2838
+
+ Directory of c:\Users\Pepa\OneDrive\programoz s\js\‚retts‚giFeladatokLista\img2
+
+2020. 04. 06.  16:59    <DIR>          .
+2020. 04. 06.  16:59    <DIR>          ..
+2020. 04. 06.  16:59                 0 1.txt
+2020. 04. 06.  16:55             1ÿ660 cs.gif
+2020. 04. 06.  16:55             1ÿ688 css.gif
+2020. 04. 06.  16:55             1ÿ315 csv.gif
+2020. 04. 06.  16:55             1ÿ297 doc.gif
+2020. 04. 06.  16:55             1ÿ451 file.gif
+2020. 04. 06.  16:55             1ÿ663 gif.gif
+2020. 04. 06.  16:55             1ÿ678 html.gif
+2020. 04. 06.  16:55             1ÿ663 jpg.gif
+2020. 04. 06.  16:55             1ÿ297 ldb.gif
+2020. 04. 06.  16:55             1ÿ235 mdb.gif
+2020. 04. 06.  16:55             1ÿ295 pdf.gif
+2020. 04. 06.  16:55             2ÿ078 pkt.gif
+2020. 04. 06.  16:55             1ÿ235 ppt.gif
+2020. 04. 06.  16:55             1ÿ444 txt.gif
+2020. 04. 06.  16:55             1ÿ300 xls.gif
+2020. 04. 06.  16:55             1ÿ691 zip.gif
+              17 File(s)         23ÿ990 bytes
+               2 Dir(s)  21ÿ633ÿ642ÿ496 bytes free

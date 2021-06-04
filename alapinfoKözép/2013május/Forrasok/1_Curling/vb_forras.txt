@@ -1,0 +1,56 @@
+﻿Évszám	Férfi világbajnokság		Női világbajnokság									
+	Helyszín	Győztes	Helyszín	Győztes								
+1959	Skócia	Kanada										
+1960	Skócia	Kanada										
+1961	Skócia	Kanada										
+1962	Skócia	Kanada										
+1963	Skócia	Kanada										
+1964	Kanada	Kanada										
+1965	Skócia	Egyesült Államok										
+1966	Kanada	Kanada										
+1967	Skócia	Skócia										
+1968	Kanada	Kanada										
+1969	Skócia	Kanada										
+1970	Egyesült Államok	Kanada										
+1971	Franciaország	Kanada										
+1972	Németország	Kanada										
+1973	Kanada	Svédország										
+1974	Svájc	Egyesült Államok										
+1975	Skócia	Svájc										
+1976	Egyesült Államok	Egyesült Államok										
+1977	Svédország	Svédország										
+1978	Kanada	Egyesült Államok										
+1979	Svájc	Norvégia	Skócia	Svájc								
+1980	Kanada	Kanada	Skócia	Kanada								
+1981	Kanada	Svájc	Skócia	Svédország								
+1982	Németország	Kanada	Svájc	Dánia								
+1983	Kanada	Kanada	Kanada	Svájc								
+1984	Egyesült Államok	Norvégia	Skócia	Kanada								
+1985	Skócia	Kanada	Svédország	Kanada								
+1986	Kanada	Kanada	Kanada	Kanada								
+1987	Kanada	Kanada	Egyesült Államok	Kanada								
+1988	Svájc	Norvégia	Skócia	Németország								
+1989	Egyesült Államok	Kanada	Egyesült Államok	Kanada								
+1990	Svédország	Kanada	Svédország	Norvégia								
+1991	Kanada	Skócia	Kanada	Norvégia								
+1992	Németország	Svájc	Németország	Svédország								
+1993	Svájc	Kanada	Svájc	Kanada								
+1994	Németország	Kanada	Németország	Kanada								
+1995	Kanada	Kanada	Kanada	Svédország								
+1996	Kanada	Kanada	Kanada	Kanada								
+1997	Svájc	Svédország	Svájc	Kanada								
+1998	Kanada	Kanada	Kanada	Svédország								
+1999	Kanada	Skócia	Kanada	Svédország								
+2000	Skócia	Kanada	Skócia	Kanada								
+2001	Svájc	Svédország	Svájc	Kanada								
+2002	Kanada	Kanada	Egyesült Államok	Skócia								
+2003	Kanada	Kanada	Kanada	Egyesült Államok								
+2004	Svédország	Svédország	Svédország	Kanada								
+2005	Kanada	Kanada	Skócia	Svédország								
+2006	Egyesült Államok	Skócia	Kanada	Svédország								
+2007	Kanada	Kanada	Japán	Kanada								
+2008	Egyesült Államok	Kanada	Kanada	Kanada								
+2009	Kanada	Skócia	Dél-Korea	Kína								
+2010	Olaszország	Kanada	Kanada	Németország								
+2011	Kanada	Kanada	Norvégia	Svédország								
+2012	Svájc		Kanada	Svájc								

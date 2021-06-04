@@ -1,0 +1,20 @@
+﻿Curling
+A curling csapatjáték, a téli sportok egyike. A játékot két csapat játssza, mindkét csapat nyolc-nyolc követ csúsztathat a jégpályán egy kijelölt kör alakú mezőbe. Az a csapat nyer, amelynek kövei a legközelebb esnek a kijelölt kör középpontjához.
+A játék elnevezése
+A sportág magyar elnevezésére több kísérlet is történt már. A játék magyar elnevezésére a csúszókorong és a jégteke elnevezés lehetősége merült fel, mely nevek mindenképpen szerencsésebbek a surrogó játéknévnél, de egyik sem tűnt megfelelőnek, mert a játéknak vajmi kevés köze van a tekéhez, a csúszókorong pedig más, bár némileg hasonló, általában nem jégen űzött sportágat jelöl. Így maradt a curling elnevezés.
+Játékszabályok
+A két négyfős csapat felváltva csúsztatja köveit a célmező felé. A cél minél több korong elhelyezése a „házban”.
+Minden csapattag két-két követ csúsztathat.
+A csúszás különböző korrekcióit (gyorsítás, kanyarba irányítás) a többi csapattag söpréssel végezheti, a kőhöz azonban nem érhetnek hozzá. A söpréssel nem a jég tisztítása a fő feladat, hanem bizonyos hő biztosítása a jégfelületen, amivel a korong sebességét és irányát lehet befolyásolni.
+A négy csapattag általában rögzített sorrendben végzi a kövek lökését.
+Egy mérkőzés tíz játékmenetből (end-ből) áll.
+A csapatoknak az egész mérkőzést tekintve 73–73 perc játékidő áll rendelkezésükre. Egy játékmenet 8–8 kő csúsztatásából áll.
+A játékmenet győztese az a csapat, amelynek köve vagy kövei a célterület középpontjához a legközelebb van, illetve vannak a menet végén. A csapat annyi pontot kap, ahány korongja közelebb van a középponthoz, mint az ellenfél középponthoz legközelebb található köve.
+Minden menet végén térfélcsere következik, aminek az a praktikus oka, hogy a köveket nem kell minden alkalommal „visszaköltöztetni” a kiindulási helyre.
+Minden menetet az előző kör nyertese kezdi, a vesztesé az új menetben az úgynevezett kalapács (hammer), azaz ők a kedvezményezettek, mert ők csúsztathatják az utolsó követ.
+Az a csapat győz, amelyik a tízedik menet végén több ponttal rendelkezik. Ha az állás döntetlen, a mérkőzést egy tizenegyedik menet lejátszásával döntik el.
+A pálya
+A curlingpálya hosszúsága 45,5 m, általában fedett (ez nemzetközi versenyeken kívánalom). Készítéséhez desztillált vizet használnak. Felülete enyhén érdes, piciny domború kiemelkedések vannak rajta. Ennek oka az, hogy a teljesen sima jégen túlságosan tapadna a korong, és irányítása is nehézkesebb lenne. A kis dudorokat úgy érik el, hogy a játék előtt és az ötödik end után kézi permetezőből langyos desztillált vizet permeteznek a felületére.
+A kellékek
+A kő egy skót szigetről, Ailsa Craigről származó gránitból készül. Átmérője 30 cm, magassága 12 cm és 19,1 kg súlyú.
+A söprű általában szintetikus műanyaghabból vagy pamutból illetve textilből készül.

@@ -1,0 +1,85 @@
+program Feladat3;
+
+{$APPTYPE CONSOLE}
+{
+ Informatikai alapismeretek
+ Középszint
+ 3. feladat
+}
+
+uses
+  SysUtils;
+
+Const Max=10;
+Var Pontok:Array[1..Max,1..2] of Real;
+    Db:byte;
+
+Procedure Beolvasas;
+Var I:Byte;
+Begin
+  WriteLn;
+  Writeln(' Adja meg a versenyzok pontszamait!');
+  I:=0;
+  Repeat
+    Inc(I);
+    Writeln;
+    Writeln(' ',I,'. versenyzo:');
+    Repeat
+      Write('    Nehezseg pont   : ');
+      ReadLn(Pontok[I,1]);
+    Until ((1<=Pontok[I,1]) And (Pontok[I,1]<=10) And (Trunc(Pontok[I,1]*2)=Pontok[I,1]*2))
+           Or (Pontok[I,1]=0);
+    If (Pontok[I,1]<>0)
+      Then
+        Repeat
+          Write('    Kivitelezes pont: ');
+          ReadLn(Pontok[I,2]);
+        Until (1<=Pontok[I,2]) And (Pontok[I,2]<=10) And (Trunc(Pontok[I,2]*2)=Pontok[I,2]*2);
+  Until (Pontok[I,1]=0) Or (I=Max);  // Vége, ha végjel, vagy megtelt a vektor
+  If (Pontok[I,1]=0) Then Db:=I-1
+                       Else Db:=I;
+End;
+
+Procedure Kiiras;
+Var I:Byte;
+Begin
+  If (Db>0)
+    Then
+      Begin
+        Writeln;
+        Writeln(' A versenyzok pontszamai:');
+        Writeln;
+        WriteLn('Sorszam':8,'Nehezseg':9,'Kivitelezes':12);
+        For I:=1 To Db Do
+          Writeln(I:4,'.',Pontok[I,1]:10:1,Pontok[I,2]:10:1);
+      End;
+End;
+
+Procedure Kereses;
+Var I:Byte;
+Begin
+  I:=1;
+  While (I<=Db) And (Abs(Pontok[I,1]-Pontok[I,2])<=2) Do
+    Inc(I);
+  WriteLn;
+  If (I<=Db)
+    Then
+      Begin
+        Writeln(' Az elso olyan versenyzo sorszama, akinek ketfele pontszama'+#13#10+
+                ' kozotti kulonbseg 2-nel nagyobb:  ', I);
+      End
+    Else
+      WriteLn(' Nincs olyan versenyzo, aiknek a ketfele pontszama kozott'+#13#10+
+              ' a kulonbseg 2-nel nagyobb!');
+  WriteLn;
+  WriteLn(' Nyomjon egy Enter-t a kilepeshez!');
+  Readln;
+End;
+
+begin
+Beolvasas;
+Kiiras;
+Kereses;
+End.
+
+

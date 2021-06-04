@@ -1,0 +1,85 @@
+﻿Közterület	Hossz (m)	Övezet	Tisztítás		Teljes úthossz:	
+Petőfi Sándor út	1028	I.			Tisztítási arány:
+Varga Katalin út	322	II.			Havas úthossz:
+Borostyán utca	535	III.
+Petőfi Sándor út	135	I.
+Szolnoki út	237	II.			Havas úttestű utcák		Utcák száma
+Május 1. út	261	II.			Közterület		Tisztítás	Tisztítás
+Kőrizs út	812	II.					igen	nem
+Bercsényi utca	172	III.
+Szolnoki út	185	II.
+Bajcsy-Zsilinszky út	656	I.
+Déryné utca	534	II.
+Május 1. út	81	II.
+Csók István út	95	II.
+Bajcsy-Zsilinszky út	123	I.
+Deák Ferenc utca	583	I.
+Ifjúsági út	1050	II.
+Bajcsy-Zsilinszky út	249	I.
+Erdő út	897	II.
+Csók István út	95	II.
+Béke út	220	II.
+Szegfű út	183	II.
+Gesztenye sor	669	III.
+Csók István út	40	II.
+Kérész út	1020	I.
+Nefelejcs út	762	II.
+Rózsa út	745	II.
+Hunyadi János utca	1062	I.
+Tulipán út	429	II.
+Kérész út	147	I.
+Dobó Katalin út	949	II.
+Veres Péter utca	337	III.
+Mandula utca	911	III.
+Zrínyi Miklós út	476	I.
+Akácfa út	665	II.
+Martos Flóra út	696	III.
+Kérész út	251	I.
+Bocskai út	406	II.
+Jókai Mór utca	715	III.
+Bem út	523	I.
+Váci Mihály út	784	II.
+Zöldfa út	126	III.
+Hársfa út	623	II.
+Ady Endre utca	977	I.
+Bata utca	682	III.
+Tiszavirág utca	143	III.
+Tóth Árpád utca	937	I.
+Galagonya utca	636	III.
+Mártírok útja	1007	I.
+Babits Mihály utca	987	II.
+Radnóti Miklós út	227	II.
+Szent István tér	90	I.
+Piac tér	551	I.
+Tisza Antal út	356	II.
+Szabó Pál utca	425	III.
+Temető utca	652	III.
+József Attila utca	737	I.
+Móra Ferenc út	472	III.
+Táncsics Mihály út	870	I.
+Levendula utca	995	III.
+Simon Ferenc út	819	II.
+Tompa Mihály út	337	II.
+Virág út	806	I.
+Vasvári Pál utca	213	I.
+Napraforgó utca	598	III.
+Munkácsy út	401	II.
+Pipacs utca	620	III.
+Krúdy Gyula utca	1008	I.
+Kölcsey út	237	II.
+Iskola utca	250	II.
+Kossuth Lajos út	890	II.
+Hősök tere	50	I.
+Petőfi Sándor út	451	I.
+Damjanich utca	615	III.
+Móricz Zsigmond utca	544	I.
+Bartók Béla utca	924	III.
+Liliom út	565	III.
+Rákóczi út	284	II.
+Kassák Lajos út	460	I.
+Hősök tere	50	I.
+Juhász Gyula utca	985	III.
+Tüzép utca	404	III.
+Vasvári Pál utca	177	I.
+Arany János út	379	I.
+Petőfi Sándor út	1028	I.

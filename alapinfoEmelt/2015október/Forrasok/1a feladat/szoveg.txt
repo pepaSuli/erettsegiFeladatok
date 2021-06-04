@@ -1,0 +1,36 @@
+﻿Nyári időszámítás
+A nyári időszámítás (angol rövidítése: DST) széles körben elfogadott rendszer, melyben a helyi időt 1 órával előre állítják az adott időzóna idejéhez képest. Az elnevezés onnan ered, hogy ez az időszámítás nagyrészt a nyári időszakra esik. Európában a nyári időszámítás március utolsó vasárnapján kezdődik, és október utolsó vasárnapjáig tart. Ennek megfelelően minden évben más dátumra esik, de az átállítás napja mindig vasárnap. Az óraátállítás az UTC szerint hajnali 1 órakor történik, vagyis Magyarországon márciusban helyi idő szerint 2 órakor előre, októberben 3 órakor vissza kell állítani az órákat.
+Energiamegtakarítás Magyarországon
+A hazai villamosenergia-rendszert irányító Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt. (MAVIR) szakemberei 1949 óta gyűjtik és elemzik a mindenkori fogyasztási adatokat. A MAVIR 2012-es közleménye szerint az óraátállításoknak köszönhetően éves szinten mintegy 120 gigawattórával (GWh) kevesebb áramot használ fel az ország, ami 30-40 ezer háztartás éves fogyasztásának felel meg.
+Hasznos vagy káros?
+A nyári időszámítás 20. század elején történt bevezetése óra folyamatosan vita zajlik az eljárás kellően hasznos voltáról, illetve, hogy az előnyös vonások ellensúlyozzák-e a hátrányokat.
+Előnyök
+A legtöbb dolgozó ember, akik túlnyomó többsége nappali műszakban dolgozik, előnynek tartja, hogy délután tovább van világos, és a szabadidő eltöltésének lehetősége a szabadban egy órával meghosszabbodik a hosszabb ideig tartó világosság miatt.
+Csökken a délutáni szürkület miatt bekövetkező közúti balesetek száma.
+A családtagok hosszabb időt tudnak együtt eltölteni a szabadban, ez javítja a családon belüli kapcsolatokat, a szülő-gyermek viszonyt.
+Ha a család több időt tölt a szabadban, otthon kevesebb áramot fogyaszt (feltéve, hogy olyankor a tévé, számítógép, hifi, légkondicionáló ki van kapcsolva).
+A kevesebb mesterséges világítás miatt energiamegtakarítás jelentkezik országos szinten.
+A turizmusból származó bevétel növekszik, mivel a turistáknak több idejük van a pénzüket nappali tevékenység közben elkölteni.
+Hátrányok
+Az ellenzők egy része szerint az energiamegtakarítás nem jelentős.
+Az emberi egészségre, közérzetre rövid távon hátrányos hatású az óra átállítása.
+Az átállítás időszakában a közúti balesetek száma megugrik.
+Kényelmetlen, és zavart okoz a különféle elektronikus berendezések óráinak átállítása évente kétszer.
+A Magyar Államvasutak jelenlegi gyakorlata szerint az őszi óraátállításkor a vonatok 1 órát vesztegelnek.
+A szezonális depresszióban szenvedőknek kedvezőtlen, hogy a reggelek újra sötétek (ezt nem ellensúlyozza, hogy esténként tovább van világos).
+Ha az állatok fejési idején változtatnak, az hátrányosan érinti a lefejt tej mennyiségét.
+Egészségügyi vonatkozások
+Sokak számára az óraátállítás akár 1-2 hétig tartó kellemetlen közérzettel, fejfájással, figyelmetlenséggel, csökkent koncentrálóképességgel jár, mivel az ember belső, biológiai óráját nem lehet egy pillanat alatt átállítani. Az alvási ciklus is felborul, az ember este nem tud elaludni, reggel pedig kialvatlanul ébred. A tavaszi óraátállítás utáni három napban jelentősen megnövekszik az infarktusos esetek száma. (az őszi visszaállításkor hasonló mértékben csökken). A tavasszal néhány napig (egyénenként változó) reggelente az a jellemző, hogy a melatonintermelés még nem állt át, a glükokortikoidszint is alacsony. A vércukorszint még az alvási időnek megfelelő, ami nem elég a nappali aktivitáshoz. A csecsemők, a gyerekek és az idősek szervezete nehezebben alkalmazkodik az óraátállításhoz. Különösen megterhelő az évi kétszeri óraátállítás az alvászavarokkal küzdő és a szervi betegségekben szenvedő embereknek. Amíg a belső és külső óra nem kerül összhangba, a következő tünetek léphetnek fel:
+Alvászavarok
+Fáradtság
+Depresszív hangulat
+A szívfrekvencia ingadozása
+A koncentrálóképesség csökkenése
+Ingerültség
+Étvágytalanság
+Emésztési problémák
+Tanácsok az átálláshoz
+A szabadban végzett reggeli könnyű futás vagy gyors séta növeli a szerotonin előállítását az agyban, ami elősegíti a megváltozott külső ciklushoz való igazodást.
+A reggeli sötétségben az erős mesterséges fény alkalmazása meggyorsítja a belső óra fényhez való szinkronizálását.
+Az óraátállítást követő 10 napban legyünk különösen óvatosak és körültekintőek a közlekedésben, és a balesetveszélyes otthoni elfoglaltságokat is kerüljük (például ablakmosás).
+A nyári időszámítás alkalmazása az egyes országokban

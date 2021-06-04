@@ -1,0 +1,59 @@
+------------------------------------------------------------------
+Emelt szintû írásbeli érettségi feladatok
+megoldásai informatikai alapismeretek tárgyból
+2006. májusi vizsgaidõszak.
+------------------------------------------------------------------ 
+
+
+Megjegyzések a feladatok megoldásaihoz.
+
+
+1. Az egyes feladatok megoldásait az alábbi fájlok tartalmazzák:
+
+   emelt szint               
+   1. feladat: ef1.pas       
+   2. feladat: ef2.pas
+   3. feladat: ef3.pas
+   4. feladat: ef4.txt
+
+2. Az emelt szint elsõ három feladatának megoldása
+   a Free PASCAL 2.0 rendszerben készült, mely letölthetõ
+   a www.freepascal.org oldalról.
+
+3. Az emelt szint 4. feladatának megoldása Microsoft Office 2003 
+   Access rendszerben készült. Az inputállomány módosításáról
+   a megoldásban található megjegyzés. Megoldásként a 
+   lekérdezõ SQL mondatokat adjuk meg, melyhez az MS Jet SQL
+   verzióját használjuk.
+
+4. A Pascalban adott megoldásoknál nem törekedtünk arra, hogy
+   az egyes feladatrészeket külön modulokban, eljárásokban 
+   valósítsuk meg. Hangsúlyt fektettünk azonban arra, hogy
+   a forráskód tördelésével és megjegyzések alkalmazásával
+   a feladat kiírásának megfelelõ logikai egységekre bontsuk
+   a megoldást.
+
+5. Az emelt szint második feladatára adott megoldás azért
+   tér el kismértékben a zárójelezés ellenõrzésének megszokott
+   módjától, hogy a vizsgálat eredményét a kitûzött
+   módon tudjuk a felhasználóval közölni. Az ellenõrzés
+   természetesen csak a zárójelezést vizsgálja, a kifejezésben
+   található egyéb karaktererket figyelmen kívül hagyja.
+   
+6. Az emelt szint 3. feladata egy szélsõérték hely meghatározást tûz ki. 
+   A feladat szövege nem zárja ki, hogy a  maximum vagy minimum értékeket
+   az adatsor egy vagy több helyen veszi, veheti fel. 
+   A mintamegoldásokban feltételezzük, hogy az adatsor több 
+   helyen is felveheti legkissebb, illetve legnagyobb értékét. 
+   A feladatkiírás nem említi, a megoldás során azonban 
+   feltételeztük azt is, hogy a bemenõ adatsorok nem üresek. 
+   Abban az esetben ha meg akarjuk engedni üres adatsorok 
+   használatát is, a megoldásban az adatsorok ürességét a 
+   szélsõérték keresések elõtt vizsgálni kell, és amennyiben 
+   azok üresnek bizonyulnának, a keresések végrehajtását nem 
+   szabad megengedni.
+
+------------------------------------------------------------------ 
+   
+   
+   

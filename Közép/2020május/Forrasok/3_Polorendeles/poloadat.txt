@@ -1,0 +1,104 @@
+﻿Név	Oszt	S	M	L	XL
+
+
+
+
+
+
+Mecseki Benjamin	9.c		1		
+Kövecses Éva	9.c		1		
+Kovács Dóra	9.c				
+Papp Benedek	9.c		1		
+Súlyos Marcell	9.c		1		
+Vajda Noémi	9.b				
+Papp Pál	9.b		2		
+Húsvéti Bence	9.a				
+Kulcsár Gergely	9.c		1		
+Veronika Jakab	9.c				
+Müszi Mátyás	9.b		1	1	
+Kürtös Dániel	9.b			1	
+Bérczes Bódog	9.a				
+Harsona Zuzsa	9.b				
+Rovátka Lili	9.a				
+Császár Anna	9.b				
+Veér Krisztián	9.a	1			
+Gombos Gábor	9.a		1		
+Sugaras Mihály	9.a			1	
+Kolos Kolos	9.b		2	2	
+Tanga Lilla	9.a			1	
+Tóth János	9.b			2	1
+Bölcs Leó	9.a	1	1		
+Henczy Béla	9.a		1		
+Szőke Tímea	9.c				
+Izsák Anna	9.a	1			
+Bognár Bálint	9.a		1		
+Szalai Szindbád	9.c		1		
+Horváth Zsófia	9.a	1	1		
+Citromos Cili	9.a				
+Máthé Zsófia	9.b				
+Kis Bence	9.b		1		
+Férges Réka	9.c			1	
+Nagy Dóra	9.a	1			
+Vacak Violetta	9.c		1		
+Botos Emese	9.b	1			
+Kecskeméti Ilona	9.c		1		
+Vidám Hajnalka	9.b			1	
+Pille Péter	9.c				
+Maca Mária	9.c		1		
+Kroó Levente	9.c			3	
+Timóthy Helga	9.b				
+Mészáros Ilona	9.b				
+Bubó Bubó	9.c				
+Rizsa Zsófia	9.c		2		
+Gróf Gergely	9.a	1			
+Ungy Flóra	9.c				
+Molnár Imre	9.c		1		
+Szabó Soma	9.c				
+Csontos András	9.a	2			
+Németh Helga	9.b				
+Gül Barna	9.a				
+Nagy Dániel	9.b				
+Illatos Jázmin	9.b		1	1	
+Dzsekit Csilla	9.c			1	
+Játékos Korinna	9.c	3			
+Medika Sára	9.c	1			
+Csiszár Csilla	9.c				1
+Csapó Karolina	9.c	1	1	1	1
+Godó Balázs	9.c			1	
+Kása Natasa	9.b				
+Soós Csilla	9.a	1			
+Kacsa Kázmér	9.c			1	1
+Hódos Károly	9.b		2		
+Rágós Csanád	9.a				
+Joós Jakab	9.b				
+Tóth Viola	9.b				
+Kardos Kitty	9.b		1		
+Buga Jakab	9.a		1		
+Sándor Sándor	9.b				2
+Gulyás Anna	9.a		1		
+Kovács Sarolta	9.b				
+Mosó Masa	9.a			1	
+Róka Rudolf	9.a		1		
+Ivánka Anna	9.b			1	
+Csete Bálint	9.c				
+Kuti Kata	9.a				
+Havasi Hidalgó	9.c		1		
+Golyvás László	9.b		1		
+Kiss Virág	9.c			2	
+Bádogos Dorottya	9.b		2	1	
+Gyáry Emma	9.a	1	1		
+Glázser Bozsó	9.a				
+Almás Mária	9.a	1	1		
+Szabó Bálint	9.b	1			
+Erős Áron	9.a	1			
+Cserepes Virág	9.b			1	
+Vida Györgyi	9.a				
+Arató Mihály	9.a				
+Elvárt Zseni	9.c		2	2	
+Kovács József	9.a		2	1	
+Módos Dóra	9.a		1		
+Tavaszi Villő	9.c	1			
+Pintér Katalin	9.b		1		
+Nyilas Eszter	9.b		1		
+Tuten Károly	9.c		1	1	1
+Miklós Irma	9.b	1			

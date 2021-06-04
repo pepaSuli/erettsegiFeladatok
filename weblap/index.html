@@ -1,0 +1,734 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Érettségi feladatok</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="initial-scale=1.0">
+		<link rel="stylesheet" href="style.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="erettsegi.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7624985-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-7624985-2');
+		</script>
+	</head>
+	<body onload="init()">
+		<nav>
+			<h1>Érettségi feladatok</h1>
+			<h2>Szűrő</h2>
+			<div id="szurok">
+<!--				<label>Szint:<select id="szint"></select></label>
+				<label>Év:<select id="ev"></select></label>
+				<label>Hónap:<select id="honap"></select></label>
+				<label>Feladat:<select id="feladat"></select></label>
+				<button onclick="szures()">Szűrés</button>-->
+			</div>
+		</nav>
+		<div><a href="https://docs.google.com/forms/d/15-OCmoW21nxCPfZm6l1-0MQ-KjX7hGMqPcwRTP2hkes" target="hibak">Hibabejelentő</a></div>
+		<h2>Feladatok<span id="feladatDb"></span></h2>
+		<div id="jo">
+			<!--div class="feladat">
+				<ul>
+					<li><span>Szint:</span><span>emelt</span></li>
+					<li><span>Év:</span><span>2018</span></li>
+					<li><span>Hónap:</span><span>május2</span></li>
+					<li><span>Név:</span><span>asdasd</span></li>
+					<li><span>Típus:</span><span>excel</span></li>
+				</ul>
+				<div>
+					<span>Források:</span>
+					<span><ul><a><li>asdasd</li></a><a><li>asdasd</li></a><a><li>asdasd</li></a></ul></span>
+				</div>
+			</div-->
+		</div>
+
+		<script>
+			var szurok={"szint":[],"ev":[],"honap":[],"feladat":[]};
+			let szelesseg=0;
+			//az adatok szűkítését végzi
+			var aktivSzuro={};
+			var kellMegoldas=false;
+			//var aktivSzuro={"szint":"","ev":"","honap":"","feladat":""};
+
+			var baseUrl;
+			function init()
+			{
+//				console.log(window.location);
+				if(window.location.protocol=="file:")
+				{
+					baseUrl="file://c:/Users/Pepa/OneDrive/érettségi/";
+				}
+				else
+				{
+					baseUrl="/erettsegi/";
+				}
+				const urlParams = new URLSearchParams(window.location.search);
+				kellMegoldas = urlParams.has('megoldas');
+				
+				if(urlParams.has('szint')){		aktivSzuro.szint=urlParams.getAll('szint'); }
+				if(urlParams.has('ev')){		aktivSzuro.ev=urlParams.getAll('ev'); }
+				if(urlParams.has('honap')){		aktivSzuro.honap=urlParams.getAll('honap'); }
+				if(urlParams.has('feladat')){	aktivSzuro.feladat=urlParams.getAll('feladat'); }
+
+//				console.log(feladatok);
+				
+				//a legújabb legyen elöl
+				feladatok.sort(function(a,b){
+					if(a.ev>b.ev) 		return -1;
+					else if(a.ev<b.ev)	return 1;
+					else if(a.honap>b.honap)		return -1;
+					else if(a.honap<b.honap)		return 1;
+					else if(a.feladat.szam>b.szam)	return -1;
+					else return 1;
+				});
+
+				//feladatok.reverse();
+				kiir();
+				makeSelect();
+
+				//ha van mit szűrni kezdéskor, akkor menjen a kiírás is
+				szures();
+//				console.log(aktivSzuro);
+				//szuresVegrahajt();
+				//if(Object.keys(aktivSzuro).length>0){	szuresVegrahajt(); }
+			}
+			
+
+			function makeSelect()
+			{
+			//		f.setAttribute("data-id",index);
+//					f.setAttribute("data-hidden",false);
+				//$('.feladat').map(function(){				
+				//for(let e of feladatok)
+				szurok={"szint":[],"ev":[],"honap":[],"feladat":[]};
+				feladatok.map(e=>{
+					//csak ha látszik, akkor kerüljön be a tulajdonság a szűrők közé
+//					if(!e.hidden)
+					{
+						if(szurok.szint.indexOf(e.szint)==-1)	{	szurok.szint.push(e.szint);}
+						if(szurok.ev.indexOf(e.ev)==-1)						{	szurok.ev.push(e.ev);}
+						if(szurok.honap.indexOf(e.honap)==-1)	{	szurok.honap.push(e.honap);}
+						if(szurok.feladat.indexOf(e.feladat.tipus)==-1)	{	szurok.feladat.push(e.feladat.tipus);}
+					}
+				});
+				
+				szurok.szint.sort();
+				szurok.ev.sort().reverse();
+				szurok.honap.sort();
+				szurok.feladat.sort();
+				szurok.szint.unshift("Mind");
+				szurok.ev.unshift("Mind");
+				szurok.honap.unshift("Mind");
+				szurok.feladat.unshift("Mind");
+				//filterSelect();
+				
+				filterCheckbox();
+			}
+			/*
+				a szűrők beállítása select-ekkel
+			*/
+			function filterSelect()
+			{
+				for(let i=0;i<Object.keys(szurok).length;i++)
+				{
+					let kulcs=Object.keys(szurok)[i];
+					let select=document.getElementById(kulcs);
+					select.innerHTML="";
+					select.addEventListener("change",szures);
+					for(let k=0;k<szurok[kulcs].length;k++)
+					{
+						var option = document.createElement("option");
+						option.text = szurok[kulcs][k];
+						option.value = szurok[kulcs][k];
+						if(aktivSzuro[kulcs] && aktivSzuro[kulcs].includes(szurok[kulcs][k]+""))
+						{
+							option.selected="selected";
+						}
+						select.add(option);
+					}
+				}				
+			}
+
+			/*
+				a szűrők beállítása checkbox-okkal
+			*/
+							/*
+<label>Szint:<select id="szint"></select></label>
+				<label>Év:<select id="ev"></select></label>
+				<label>Hónap:<select id="honap"></select></label>
+				<label>Feladat:<select id="feladat"></select></label>
+				<button onclick="szures()">Szűrés</button>
+*/
+			function filterCheckbox()
+			{
+				//let filterek={szint:"Szint",ev:"Év",honap:"Hónap",feladat:"Feladat típus"}
+				let filterek=[["szint","Szint"],
+							  ["ev","Év"],
+							  ["honap","Hónap"],
+							  ["feladat","Feladat típus"]];
+				szurok.rendezes=["Szint&#708;","Szint&#709;","Dátum&#708;","Dátum&#709;","Típus&#708;","Típus&#709;"];
+//				$("szurok").innerHTML="";
+				document.getElementById("szurok").innerHTML="";
+				
+				filterek.map(x=>{
+					let kulcs=x[0];
+					let ertek=x[1];
+
+					let doboz=document.createElement("fieldset");
+
+					let l=document.createElement("legend");
+					l.appendChild(document.createTextNode(ertek));
+					doboz.appendChild(l);
+
+					szurok[kulcs].map(e=>{
+						if(e!="Mind")
+						{
+							let jelolo = document.createElement("input");
+							jelolo.type="checkbox";
+							jelolo.value=e;
+							if(kulcs=="rendezes")
+							{
+								jelolo.name=kulcs;
+								jelolo.type="radio";
+							}
+							jelolo.className=kulcs;
+
+							//ha ki van választva
+							if(aktivSzuro[kulcs] && aktivSzuro[kulcs].includes(e+""))
+							{
+								jelolo.checked = true;
+								jelolo.defaultChecked = true;
+							}
+
+							const label=document.createElement("label");
+							label.appendChild(jelolo);
+							label.innerHTML+=e;
+							label.innerHTML+='<span class="checkmark"></span>';
+							label.className="container";
+
+							label.addEventListener("change",szures);
+							if(kulcs=="rendezes")
+							{
+								label.className="container2";
+								label.addEventListener("change",rendezAllit);
+							}
+
+							doboz.appendChild(label);
+						}
+					});
+					document.getElementById("szurok").appendChild(doboz);
+				});
+
+				/* rendezések berakása*/
+				let rendezesTomb=["Szint","Dátum","Típus"];
+					let kulcs="rendezes"
+					let ertek="Rendezés";
+
+					let doboz=document.createElement("fieldset");
+					let l=document.createElement("legend");
+					doboz.id="rendezes";
+					l.appendChild(document.createTextNode(ertek));
+					doboz.appendChild(l);
+
+					//gombok felül
+					doboz.innerHTML+='<div><span class="szelsoSzo">&#708;</span><span class="kozepSzo"></span><span class="szelsoSzo">&#709;</span></div>'
+					/*let rendezDoboz = document.createElement("div");
+						//növekvő gomb
+							let label=document.createElement("label");
+							label.innerHTML+="&#708;";
+							label.className="szelsoSzo";
+							rendezDoboz.appendChild(label);
+							rendezDoboz.innerHTML+=`<span class="kozepSzo"></span>`;
+						//csökkenő gomb
+							label=document.createElement("label");
+							label.innerHTML+="&#709;";
+							label.className="szelsoSzo";
+							rendezDoboz.appendChild(label);
+							doboz.appendChild(rendezDoboz);
+							*/
+					rendezesTomb.map(e=>{
+						let rendezDoboz = document.createElement("div");
+						//növekvő gomb
+							let jelolo = document.createElement("input");
+							jelolo.value=e+"Asc";
+							jelolo.name=kulcs;
+							jelolo.type="radio";
+							jelolo.className=kulcs;
+
+							let label=document.createElement("label");
+							label.appendChild(jelolo);
+							label.innerHTML+='<span class="checkmark"></span>';
+							//label.innerHTML+="&#708;";
+							label.className="container2";
+							label.addEventListener("change",rendezAllit);
+							rendezDoboz.appendChild(label);
+
+							rendezDoboz.innerHTML+=`<span class="kozepSzo">${e}</span>`;
+							//label.innerHTML+=;
+						//csökkenő gomb
+							jelolo = document.createElement("input");
+							jelolo.value=e+"Desc";
+							jelolo.name=kulcs;
+							jelolo.type="radio";
+							jelolo.className=kulcs;
+
+							let label2=document.createElement("label");
+							label2.appendChild(jelolo);
+							label2.innerHTML+='<span class="checkmark"></span>';
+							//label.innerHTML+="&#709;";
+							label2.className="container2";
+							label2.addEventListener("change",rendezAllit);
+
+							rendezDoboz.appendChild(label2);
+						
+						
+							doboz.appendChild(rendezDoboz);
+					});
+					document.getElementById("szurok").appendChild(doboz);
+
+				
+	/*			
+				for(let i=0;i<Object.keys(szurok).length;i++)
+				{
+					let kulcs=Object.keys(szurok)[i];
+					let select=document.getElementById(kulcs);
+					select.innerHTML="";
+					select.addEventListener("change",szures);
+					for(let k=0;k<szurok[kulcs].length;k++)
+					{
+						var option = document.createElement("option");
+						option.text = szurok[kulcs][k];
+						option.value = szurok[kulcs][k];
+						if(aktivSzuro[kulcs] && aktivSzuro[kulcs].includes(szurok[kulcs][k]+""))
+						{
+							option.selected="selected";
+						}
+						select.add(option);
+					}
+				}
+*/
+			}
+			
+			//feladatkártyák rendezése a megadott szempontok szerint
+			function rendezAllit(e)
+			{
+				var sel = $('#jo');
+				var selected = sel.val(); 
+				var opts_list = sel.find('.feladatKartya');
+				
+				const irany=e.target.value.indexOf("Asc")>-1?1:-1
+				console.log(irany);
+				switch(e.target.value.replace("Asc","").replace("Desc",""))
+				{
+					case "Dátum": opts_list.sort(function(a,b){
+											if(a.dataset.ev>b.dataset.ev) 		return irany;
+											else if(a.dataset.ev<b.dataset.ev)	return -1*irany;
+											else if(a.dataset.honap>b.dataset.honap)return irany;
+											else return -1*irany;
+										});
+										break;
+					case "Típus": opts_list.sort(function(a,b){
+											if(a.dataset.feladat>b.dataset.feladat)	return irany;
+											else return -1*irany;
+										});
+										break;
+					case "Szint": opts_list.sort(function(a,b){
+											if(a.dataset.szint>b.dataset.szint) return irany;
+											else return -1*irany;
+										});
+										break;
+
+					
+					
+					
+					case "DátumAsc": opts_list.sort(function(a,b){
+											if(a.dataset.ev>b.dataset.ev) 		return 1;
+											else if(a.dataset.ev<b.dataset.ev)	return -1;
+											else if(a.dataset.honap>b.dataset.honap)return 1;
+											else return -1;
+										});
+										break;
+					case "DátumDesc": opts_list.sort(function(a,b){
+											if(a.dataset.ev>b.dataset.ev) 		return -1;
+											else if(a.dataset.ev<b.dataset.ev)	return 1;
+											else if(a.dataset.honap>b.dataset.honap)		return -1;
+											else return 1;
+										});
+										break;
+					case "TípusAsc": opts_list.sort(function(a,b){
+											if(a.dataset.feladat>b.dataset.feladat)	return 1;
+											else return -1;
+										});
+										break;
+					case "TípusDesc": opts_list.sort(function(a,b){
+											if(a.dataset.feladat>b.dataset.feladat)	return -1;
+											else return 1;
+										});
+					case "SzintAsc": opts_list.sort(function(a,b){
+											if(a.dataset.szint>b.dataset.szint) return 1;
+											else return -1;
+										});
+										break;
+					case "SzintDesc": opts_list.sort(function(a,b){
+											if(a.dataset.szint>b.dataset.szint)	return -1;
+											else return 1;
+										});
+										break;
+					default:console.log(e.target.value);break;
+				}
+				sel.html('').append(opts_list);
+				sel.val(selected); // set cached selected value
+				azonosMagassag();
+/*
+				feladatok.sort(function(a,b){
+					if(a.ev>b.ev) 		return -1;
+					else if(a.ev<b.ev)	return 1;
+					else if(a.honap>b.honap)		return -1;
+					else if(a.honap<b.honap)		return 1;
+					else if(a.feladat.szam>b.szam)	return -1;
+					else return 1;
+				});
+*/
+			}
+			
+			function szures()
+			{
+				let urlParams = new URLSearchParams(window.location.search);
+//				console.log(urlParams);
+				/* select esetén
+				for(let i=0;i<Object.keys(szurok).length;i++)
+				{
+					let kulcs=Object.keys(szurok)[i];
+					let select=document.getElementById(kulcs);
+
+					aktivSzuro[kulcs]=[select.options[select.selectedIndex].value+""];
+					urlParams.delete(kulcs);
+					if(select.options[select.selectedIndex].value!="Mind")
+					{
+						urlParams.set(kulcs,(select.options[select.selectedIndex].value+"").toLowerCase());
+					}
+				}
+				*/
+				//checkbox esetén
+				aktivSzuro={"szint":[],"ev":[],"honap":[],"feladat":[]};
+				for(let kulcs of Object.keys(aktivSzuro))
+				{
+					let elemek=document.querySelectorAll("#szurok ."+kulcs);
+					//console.log(elemek);
+					urlParams.delete(kulcs);
+
+					elemek.forEach(e=>{
+						if(e.checked)
+						{
+							aktivSzuro[kulcs].push(e.value);
+							urlParams.append(kulcs,e.value);
+						}
+					});
+					
+				}
+				//console.log(aktivSzuro);
+				//böngésző url módosítása
+				history.pushState(null, null, "?"+urlParams.toString());
+ 
+				//kiir();
+
+				szuresVegrahajt();
+			}
+			
+
+			//végrehajtja a szűréseket, a panelek ki/be kapcsolását
+			function szuresVegrahajt()
+			{
+				/*
+				$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeIn(5000);
+    $("#div2").fadeIn("slow");
+    $("#div3").fadeIn(1000);
+  });
+});
+				$('*[data-customerID="22"]');
+				*/
+//				console.log(aktivSzuro);
+
+				let talalatok=[];
+				for(let i=0;i<Object.keys(aktivSzuro).length;i++)
+				{
+					let kulcs=Object.keys(aktivSzuro)[i];
+					for(let k=0;k<aktivSzuro[kulcs].length;k++)
+					{
+/*						console.log('*[data-'+kulcs+'="'+aktivSzuro[kulcs][k]+'"]');
+					console.log($('*[data-'+kulcs+'="'+aktivSzuro[kulcs][k]+'"]'));
+						if(talalatok.length==0)
+						{
+							//az első találatok
+							talalatok=$('*[data-'+kulcs+'="'+aktivSzuro[kulcs][k]+'"]');
+						}
+						else
+						{
+							//az eddigi találatok metszete
+							talalatok=talalatok.filter(x=>$('*[data-'+kulcs+'="'+aktivSzuro[kulcs][k]+'"]').includes(x));
+						}
+						*/
+					}
+
+				}
+//						console.log(aktivSzuro);
+				
+				//eredeti magasság visszaállítása
+				$("div.feladatKartya:visible").map(function(){
+					this.children[1].style.height=this.dataset["magassag"]+"px"
+				});
+
+				talalatok=$('.feladatKartya').map(function(){
+					//console.log(this);
+					let kell=true;
+					for(let kulcs of Object.keys(aktivSzuro))
+					{
+						//if(aktivSzuro[kulcs]!="Mind")//selectes esetén
+						if(aktivSzuro[kulcs].length!=0 && aktivSzuro[kulcs]!="Mind")
+						{
+							kell&=aktivSzuro[kulcs].includes(this.dataset[kulcs]);
+						}
+					}
+					if(kell)
+					{
+						if(this.style.display=="none")
+						{
+							this.style.display="inline-block";
+						}
+						szelesseg=this.offsetWidth;
+						return this;
+					}
+					else
+					{
+						if(this.style.display!="none")
+						{
+							this.style.display="none";
+						}
+						return null;
+					}
+				});
+/*
+				for(let t of talalatok)
+				{
+				}
+*/				
+				
+				//tömbök metszete
+//				let intersection = arrA.filter(x => arrB.includes(x));
+				
+				
+				azonosMagassag();
+				document.getElementById("feladatDb").innerHTML="("+$("div.feladatKartya:visible").length+" db)";
+
+			}
+
+			function kiir()
+			{
+				//régi lista eltávolítása
+				document.querySelectorAll("div.feladatKartya").forEach(e => e.remove());
+
+//				for(let e of feladatok)
+				for(const [index, e] of feladatok.entries())
+				{
+					let vissza="";
+					let urlParams = new URLSearchParams(window.location.search);
+					urlParams.set("szint",e.szint);
+					urlParams.set("ev",e.ev);
+					urlParams.set("honap",e.honap);
+					urlParams.set("feladat",e.feladat.tipus);
+
+
+					vissza+=`<a href="?${urlParams.toString()}"><h3><span>Név: </span><span>${e.feladat.nev}</span></h3></a>`;
+
+					vissza+='<div class="feladatTartalom">';
+					vissza+="<ul>";
+					vissza+=adatSor("Szint: ",e.szint);
+					vissza+=adatSor("Év: ",e.ev);
+					vissza+=adatSor("Hónap: ",e.honap);
+					vissza+=adatSor("Típus: ",e.feladat.tipus);
+
+					//vissza+=adatSor("Feladat: ",`<a href="${baseUrl}${e.url}/feladatlap${e.feladat.szam}.pdf" target="letolt" download>Feladat</a>`);
+					vissza+=adatSor("Feladat: ",`<a href="${baseUrl}${e.url}/${e.feladat.feladatlap}" target="letolt" download>Feladat</a>`);
+
+					vissza+="</ul>";
+
+					
+					vissza+="<div><span>Források:</span><span><ul>";
+					for(let a of e.feladat.forras)
+					{
+						vissza+=`<li><a href="${baseUrl}${e.url}${e.feladat.url}/${a}" target="letolt" download>${a}</a></li>`;
+							
+					}
+					vissza+="</ul></span></div>";
+
+					if(kellMegoldas)
+					{
+						vissza+="<div><span>Megoldás:</span><span><ul>";
+						for(let a of e.feladat.megoldas)
+						{
+							//vissza+=`<a href="${baseUrl}${e.url}${e.feladat.url.replace("Forrasok","Megoldasok")}/${a}" target="letolt" download><li>${a}</li></a>`;
+							vissza+=`<li><a href="${baseUrl}${e.url}${e.feladat.url.replace("Forrasok","Megoldasok")}/${a}" target="letolt" download>${a.replace("/"," /")}</a></li>`;
+						}
+
+						//értékelőlap neve, mert nincs bent a jsonban
+//						console.log(e.url.split("/")[0]);
+						let ertekeloLap="../";
+						switch(e.url.split("/")[0])
+						{
+							case "Emelt": ertekeloLap+="e_inf"+(e.ev<2012?"o":""); break;
+							case "Közép": ertekeloLap+="k_inf"+(e.ev<2012?"o":""); break;
+							case "alapinfoEmelt": ertekeloLap+="e_infoism"; break;
+							case "alapinfoKözép": ertekeloLap+="k_infoism"; break;
+							case "alapinfoEmeltRégi": ertekeloLap+="e_infoism"; break;
+							case "alapinfoKözépRégi": ertekeloLap+="k_infoism"; break;
+
+						}
+						console.log(e.url.split("/")[0]);
+file:///C:/Users/Pepa/OneDrive/%C3%A9retts%C3%A9gi/Emelt/2019okt%C3%B3ber/Megoldasok/19okt_ut.pdf
+						//informatika, magyar, mint idegen nyelven
+						switch(e.honap)
+						{
+							case "május2": ertekeloLap+="ma"; break;
+							case "május3": ertekeloLap+="ma"; break;
+						}
+						ertekeloLap+="_"+(e.ev+"").substr(2,2);
+
+						switch(e.honap)
+						{
+							case "május": ertekeloLap+="maj"; break;
+							case "majus": ertekeloLap+="maj"; break;
+							case "május2": ertekeloLap+="maj"; break;
+							case "május3": ertekeloLap+="maj"; break;
+							case "februar": ertekeloLap+="feb"; break;
+							case "oktober": ertekeloLap+="okt"; break;
+							case "október": ertekeloLap+="okt"; break;
+						}
+						ertekeloLap+="_ut.pdf";
+						console.log(ertekeloLap);
+						console.log(e);
+
+						
+						
+						vissza+=`<li><a href="${baseUrl}${e.url}${e.feladat.url.replace("Forrasok","Megoldasok")}/${ertekeloLap}" target="letolt" download>${ertekeloLap.split("/")[1]}</a></li>`;
+						vissza+="</ul></span></div>";
+					}
+					
+					let f=document.createElement("div");
+					f.setAttribute("data-szint",e.szint);
+					f.setAttribute("data-ev",e.ev);
+					f.setAttribute("data-honap",e.honap);
+					f.setAttribute("data-feladat",e.feladat.tipus);
+					f.setAttribute("data-id",index);
+					f.setAttribute("data-hidden",false);
+					feladatok[index]["hidden"]=false;
+					f.className="feladatKartya";
+
+					f.innerHTML=vissza;
+
+					
+					//let vissza='<div class="feladatTartalom">';
+					f.classList.add(classToTipus(e.feladat.tipus.split("/")[0]));
+					document.getElementById("jo").appendChild(f);
+					//console.log(f.offsetHeight);
+				}
+				
+				//legyenek egyforma magasak
+				//azonosMagassag();
+			//feladatDb	
+				//document.getElementById("feladatDb").innerHTML="("+document.querySelectorAll("div.feladatKartya").length+")";
+				document.getElementById("feladatDb").innerHTML="("+document.querySelectorAll("div.feladatKartya:not(.hidden)").length+")";
+				
+			}
+
+			
+			function azonosMagassag()
+			{
+				//console.dir(document.querySelector("div.feladatKartya"));
+				//console.log(szelesseg);
+				//legyenek egyforma magasak egy sorban
+				//mennyi fér 1 sorba?
+				const egysorban=Math.floor(document.getElementById("jo").clientWidth/szelesseg);
+
+				
+//				let t=document.querySelectorAll("div.feladatKartya:visible");
+				let t=$("div.feladatKartya:visible");
+/*				console.log(t);
+				console.log(t.length);
+				console.log(egysorban);
+*/
+				for(let i=0;i<t.length;i+=egysorban)
+				{
+					let temp=[];
+					//2-3 elem kiszedése
+					for(let k=i;k<i+egysorban && k<t.length;k++)
+					{
+						//hogy meglegyen az eredeti magasság
+						if(!t[k].getAttribute("data-magassag"))
+						{
+							t[k].setAttribute("data-magassag",t[k].children[1].offsetHeight)
+						}
+						else
+						{
+							//eredeti magasság visszaállítása
+							t[k].children[1].style.height=t[k].dataset["magassag"]+"px"
+							
+						}
+
+						temp.push(t[k]);
+					}
+					//maximum magasság keresése
+					let maxH=temp.reduce((max, e) => e.children[1].clientHeight > max ? e.children[1].clientHeight : max, 0);
+					//maxH+=10;
+					//console.log(maxH);
+					temp.forEach(e => e.children[1].style.height=maxH+"px");
+					maxH=0;
+				}
+				
+			}
+			function classToTipus(tipus)
+			{
+				switch(tipus)
+				{
+					case "kép":		return "paint";break;
+					case "mysql":	return "mysql";break;
+//					case "sql":		return "sql";break;
+					case "sql":		return "mariadb";break;
+					case "mariadb":	return "mariadb";break;
+					case "text":	return "text";break;
+					case "programozás":return "programozas";break;
+					case "html":	return "html";break;
+					case "access":	return "access";break;
+					case "ppt":		return "powerpoint";break;
+					case "word":	return "word";break;
+					case "excel":	return "excel";break;
+					case "hálózat":	return "halozat";break;
+					case "algoritmus":	return "algoritmus";break;
+
+					default:return "/";	break;
+				}
+			}
+			
+			function adatSor(nev,ertek,cimE=false)
+			{
+				if(cimE)
+				{
+					return `<h3><span>${nev}</span><span>${ertek}</span></h3>`;
+				}
+				else
+				{
+					return `<li><span>${nev}</span><span>${ertek}</span></li>`;
+				}
+				
+			}
+			
+		</script>
+	</body>
+</html>

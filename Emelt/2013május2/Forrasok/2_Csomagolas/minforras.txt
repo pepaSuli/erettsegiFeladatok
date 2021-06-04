@@ -1,0 +1,101 @@
+﻿Tömeg (gramm)	Szín	Hibátlan	Kategória		Méret	Alsó határ (gramm)	Felső határ (gramm)	Jelölés
+71	barna	igen			kicsi – small	0	53	S
+78	barna	igen			közepes – medium	54	63	M
+61	barna	igen			nagy – large	64	73	L
+54	barna	igen			nagyon nagy – extra large	74	100	XL
+53	barna	igen						
+48	barna	igen			Kategória	Mennyiség		
+68	fehér	igen			S			
+59	barna	igen			M			
+56	barna	nem			L			
+67	barna	igen			XL			
+71	barna	igen						
+61	barna	igen			Ép tojások száma:			
+40	barna	igen			Hibás tojások száma:			
+67	barna	igen						
+44	barna	igen			Szín	Hibátlan	Kategória	
+73	fehér	igen						
+77	barna	igen			Tojások száma:			
+53	barna	igen			6-os dobozok száma:			
+73	barna	igen						
+84	barna	igen						
+40	barna	igen						
+74	barna	igen						
+66	barna	igen						
+55	barna	igen						
+77	barna	igen						
+56	barna	igen						
+48	barna	igen						
+71	barna	igen						
+52	barna	igen						
+65	barna	igen						
+81	barna	nem						
+42	barna	igen						
+64	barna	igen						
+65	barna	igen						
+48	barna	nem						
+49	barna	igen						
+67	barna	igen						
+67	barna	igen						
+62	barna	igen						
+84	barna	igen						
+55	barna	igen						
+74	barna	igen						
+81	barna	igen						
+49	barna	igen						
+41	barna	igen						
+56	fehér	igen						
+58	fehér	igen						
+47	barna	igen						
+81	barna	igen						
+74	barna	igen						
+82	barna	igen						
+61	barna	igen						
+67	barna	igen						
+58	barna	igen						
+81	barna	igen						
+73	barna	igen						
+71	barna	igen						
+75	barna	igen						
+76	barna	igen						
+42	barna	igen						
+56	barna	igen						
+70	barna	igen						
+58	barna	igen						
+46	fehér	igen						
+56	barna	igen						
+43	barna	igen						
+43	barna	nem						
+75	barna	igen						
+68	barna	igen						
+54	barna	igen						
+55	barna	igen						
+84	barna	igen						
+65	barna	igen						
+77	fehér	igen						
+65	barna	igen						
+77	barna	igen						
+63	barna	igen						
+41	barna	igen						
+81	barna	igen						
+66	barna	igen						
+51	barna	igen						
+76	barna	igen						
+54	barna	igen						
+54	barna	igen						
+57	barna	igen						
+55	barna	igen						
+65	barna	igen						
+84	barna	igen						
+58	barna	igen						
+59	barna	igen						
+71	barna	igen						
+54	barna	igen						
+65	barna	igen						
+41	fehér	igen						
+48	fehér	igen						
+42	barna	igen						
+56	barna	igen						
+77	barna	igen						
+72	barna	igen						
+80	barna	igen						

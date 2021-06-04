@@ -1,0 +1,12 @@
+﻿{sakk.html}
+A Bástya
+A kezdőállásban két bástya található a figurák seregében. A sarkokban helyezkednek el, akár egy vár tornyai. Olykor toronynak is nevezik őket, de a pontosabb nevük bástya. A bástyák a vízszintes sorokat és a függőleges vonalakat tartják birtokban.
+Mely figurákat ütheti a világos bástya?
+Válasz
+Bárhol áll a bástya, szabad sorok és vonalak esetén, mindig 14 mezőt tart támadásban. Sem saját, sem idegen bábun nem léphet át, az ellenséges bábut viszont kiütheti. A bástyáknak nincs különleges szerepük a játszma kezdeti szakaszában. A középjátékban döntően hatnak a nyílt vonalakon, teljes erejük a végjátékban jut érvényre.
+A bástya a vezéren kívül az egyetlen tiszt, amely az ellenfelet a király segítségével meg tudja mattolni.
+{valasz.html}
+Kérdés:
+Mely figurákat ütheti a világos bástya?
+Válasz:
+A bástya ütheti a d6 gyalogot, vagy a c1 huszárt.

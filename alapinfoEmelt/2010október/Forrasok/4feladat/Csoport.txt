@@ -1,0 +1,13 @@
+0;"Evezõs";17
+1;"Vác";5
+2;"Galambász";23
+3;"Zenész";47
+4;"Repülõ";23
+5;"Numizmata";9
+6;"Serfõzõ";36
+7;"Linux";12
+8;"Társkeresõ";30
+9;"Kézmûves";14
+10;"Extrém sport";26
+11;"Diák";3
+12;"Geocaching";15

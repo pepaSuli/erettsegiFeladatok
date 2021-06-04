@@ -1,0 +1,28 @@
+﻿9.B			órarend				
+óra	 -tól	 -ig	Hétfő	Kedd	Szerda	Csütörtök	Péntek
+1	7:45	8:30	magyar nyelv és irodalom	történelem	fizika	testnevelés	matematika
+2	8:40	9:25	testnevelés	magyar nyelv és irodalom	testnevelés	testnevelés	angol nyelv
+3	9:35	10:20	osztályfőnöki	kémia	angol nyelv	matematika	kémia
+4	10:40	11:25	angol nyelv	szakmai	matematika	magyar nyelv és irodalom	történelem
+5	11:35	12:20	angol nyelv	földrajz	szakmai	magyar nyelv és irodalom	földrajz
+6	12:30	13:15	fizika	matematika	szakmai	szakmai	szakmai
+7	13:20	14:05	szakmai	testnevelés	történelem	informatika	----
+8	14:10	14:55	----	----	----	informatika	----
+							
+órák száma							
+a nap nehézségindexe							
+							
+							
+			tantárgy	nehézség-index	terem	heti óraszám	
+			magyar nyelv és irodalom	2	23.	4	
+			angol nyelv	2	14.	4	
+			matematika	3	F2	4	
+			történelem	2	21.	3	
+			fizika	3	F6	2	
+			testnevelés	1	Tt	5	
+			földrajz	2	17.	2	
+			informatika	1	I4.	2	
+			osztályfőnöki	0	23.	1	
+			szakmai	2	F7	6	
+			kémia	3	F5	2	
+			----	----	----	----	

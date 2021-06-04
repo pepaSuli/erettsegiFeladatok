@@ -1,0 +1,30 @@
+Befejezes ideje: 9:18:34
+Sikeresség: befejezett
+-----
+Indulási emelet: 8
+Célemelet: 12
+Feladatkód: 4
+Befejezes ideje: 10:14:45
+Sikeresség: befejezett
+-----
+Indulási emelet: 12
+Célemelet: 28
+Feladatkód: 4
+Befejezes ideje: 11:24:27
+Sikeresség: befejezetlen
+-----
+Indulási emelet: 28
+Célemelet: 39
+Feladatkód: 42
+Befejezes ideje: 12:40:43
+Sikeresség: befejezett
+-----
+Indulási emelet: 39
+Célemelet: 17
+Feladatkód: 43
+Befejezes ideje: 13:54:21
+Sikeresség: befejezett
+-----
+Indulási emelet: 17
+Célemelet: 21
+Feladatkód: 4

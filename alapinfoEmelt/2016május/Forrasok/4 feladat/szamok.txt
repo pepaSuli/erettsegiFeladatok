@@ -1,0 +1,61 @@
+CimAzon	EaAzon	Cim
+1	43	A széltől is óvsz
+2	21	All Night
+3	42	Are We All We Are
+4	35	Ask Yourself
+5	51	Blurred Lines
+6	23	Bonfire Heart
+7	19	Brave New World / Szép új világ
+8	16	Burn
+9	54	Can`t Remember To Forget You
+10	28	Catch My Breath
+11	18	Changes
+12	25	Cheating
+13	53	Come & Get It
+14	41	Counting Stars
+15	47	Csak állj mellém!
+16	55	Disco Love
+17	7	Don`t You Mind
+18	14	Ég veled / Next Please
+19	29	Fire
+20	50	Go Gentle
+21	44	Happy
+22	3	Hey Brother
+23	49	I Hope
+24	24	It`s My Party
+25	32	Köszönet
+26	36	La La La
+27	1	Lábnyom
+28	5	London
+29	25	Love Me Again
+30	20	Mindörökké
+31	26	My Baby
+32	38	My Love
+33	52	Ná-ná-ná
+34	15	Need U (100%)
+35	39	Nem kell más
+36	4	Of The Night
+37	57	Ordinary Love
+38	33	Ragyog a szívem
+39	27	Roar
+40	26	Running
+41	30	Running Out Of Time
+42	10	Safe And Sound
+43	46	Senki se menekül
+44	56	Sors
+45	31	Summertime Sadness
+46	11	Süss fel nap
+47	37	The Last One
+48	17	The Monster
+49	12	The Storm
+50	34	This Is My Life
+51	2	This Is What It Feels Like
+52	45	Timber
+53	40	Törj ki a csendből! / Breaking The Silence
+54	8	Treasure
+55	13	Úgy szállj
+56	27	Unconditionally
+57	9	Under Control
+58	48	Vadonatúj érzés / Daydream
+59	6	We All
+60	22	You`re Nobody `Til Somebody Loves You

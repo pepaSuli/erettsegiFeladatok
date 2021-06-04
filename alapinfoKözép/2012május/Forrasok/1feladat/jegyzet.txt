@@ -1,0 +1,35 @@
+﻿Egy sorozathoz egy értéket rendelő tételek
+Összegzés tétele
+Az általános feladat szöveges megfogalmazása
+Adott:	Egy sorozat, a sorozat elemein értelmezett egy összegzés művelet.
+Feladat: 	Határozzuk meg a sorozat elemeinek az összegét!
+Specifikáció  
+Adatok:	
+m,n: egész számok	// Egy egész intervallum
+f:[m..n] -> H	// A sorozat, elemeit H-ból vesszük
++:[m..n]x[m..n] -> H	// A H halmaz elemein értelmezett egy + művelet
+s: H	// Az össszeg
+Előfeltétel:
+m,n,f és + adottak és m<=n
+Utófeltétel:
+ 
+Megjegyzés:
+A H halmaz határozza meg a sorozat elemeinek a típusát 
+A + jelű művelet nem csak összeadás lehet, hanem szorzás, logikai művelet stb. 
+Algoritmus
+Eljárás Összegez:
+s:=0   
+Ciklus I:=m-től n-ig
+s:=s+f(i)
+Ciklus vége
+Eljárás vége
+Struktogram    
+
+
+A megadott specifikáció általános, nem csak vektorokra vonatkozik
+Ha a művelet nem összeadás, akkor a kezdőérték 0 helyett a műveletre jellemző semleges érték lesz, pl. szorzás esetében 1.
+A struktogramban a számlálós ciklus helyett elöltesztelős ciklust alkalmazunk.
+
+PROGRAMOZÁS MÓDSZERTAN - PROGRAMOZÁSI TÉTELEK
+
+

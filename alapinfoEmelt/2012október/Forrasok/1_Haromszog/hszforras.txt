@@ -1,0 +1,32 @@
+﻿Háromszögek
+Az euklideszi geometriában háromszögnek többféle meghatározása terjedt el, melyek közül három a következő:
+olyan sokszög, melynek három oldala, másként fogalmazva három csúcsa van
+a síknak három egyenes szakasszal határolt része
+a síknak három szakaszból álló záródó törtvonal által határolt része
+Egy háromszögre, mely A, B és C csúcsokkal rendelkezik, írásban ABC jelöléssel is hivatkozhatunk. A háromszögek több szempont szerint is csoportosíthatók, melyek közül két csoportosítási lehetőség az alábbi:
+a háromszög oldalainak egymáshoz viszonyított hossza szerint:
+egyenlő oldalú háromszög, vagy szabályos háromszög:
+minden oldala azonos hosszúságú
+minden belső szöge 60°
+egyenlő szárú háromszög
+legalább két oldala azonos hosszúságú
+két, az alapon fekvő belső szöge ugyanakkora
+általános háromszög
+minden oldala különböző hosszú
+belső szögei különbözőek
+a háromszög legnagyobb belső szögének mérete szerint:
+derékszögű háromszög
+van egy 90°-os belső szöge (egy derékszög)
+tompaszögű háromszög
+van egy 90°-nál nagyobb belső szöge (egy tompaszög)
+hegyesszögű háromszög
+mindhárom szöge 90°-nál kisebb (három hegyesszög)
+Trigonometria
+A matematika egy ága, mely a síkgeometriában a derékszögű háromszögek oldalai és szögei közötti összefüggésekkel foglalkozik. A gömbi háromszögeket a gömbi trigonometria tanulmányozza. A derékszögű háromszög oldalai és szögei közötti összefüggést a trigonometrikus függvények írják le, a trigonometria feladatai közé tartozik ezek tulajdonságainak vizsgálata és az ezeken alapuló számítások.
+A háromszög-egyenlőtlenség tétele:
+A trigonometria egyik tétele, melynek segítségével megállapítható, hogy három szakaszból lehet-e háromszöget szerkeszteni. A tétel szerint a háromszög bármely oldalának hossza kisebb a másik két oldal hosszának összegénél. Azaz:
+Pitagorasz tétele:
+Bármely derékszögű háromszög leghosszabb oldalának (átfogójának) négyzete megegyezik a másik két oldal (a befogók) négyzetösszegével. Tehát: ha egy háromszög derékszögű, akkor a leghosszabb oldalára emelt négyzet területe a másik két oldalra emelt négyzetek területének összegével egyenlő. A szokásos jelölésekkel:
+A tétel szemléletes, grafikus bizonyítása:
+Háromszögek területe:
+Bármely háromszög területe kiszámítható valamely oldal és a hozzá tartozó magasság ismeretében. Ezen kívül egy háromszög területének kiszámítása elvégezhető csak az oldalhosszok ismeretében is a Hérón-képlet segítségével. Ezt az összefüggést valószínűleg Arkhimédész fedezte fel, de Hérón írásos munkájában jelent meg először.

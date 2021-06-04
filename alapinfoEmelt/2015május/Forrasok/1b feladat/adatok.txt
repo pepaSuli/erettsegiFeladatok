@@ -1,0 +1,13 @@
+﻿Megtett út (km)	Irány	Út jele	Úttípus	Az úton megtett távolság	Utazási idő az útszakaszon (perc)	Összes utazási idő (perc)		Várható átlagsebességek (km/h)
+0	Komló							alsórendű úton	A	60
+16,9	B	6						főútvonalon	F	72
+23,5	J							autópályán	M	125
+43,2	B	M6
+202,5	J	M0
+214	J	M51
+215,4	J	M0
+245,1	J	M31
+258	J	M3
+358,6	J
+376,6	B	33
+422,4	Hortobágy

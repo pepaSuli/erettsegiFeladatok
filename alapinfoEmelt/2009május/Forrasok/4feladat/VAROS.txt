@@ -1,0 +1,4 @@
+1027;"Budapest II. Ker"
+1037;"Budapest III. Ker"
+2600;"Vác"
+9400;"Sopron"

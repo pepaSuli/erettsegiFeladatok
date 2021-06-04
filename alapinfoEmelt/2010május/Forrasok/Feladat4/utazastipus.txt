@@ -1,0 +1,4 @@
+uttip;uttipnev
+1;"Egyéni"
+2;"Buszos"
+3;"Repülõs"

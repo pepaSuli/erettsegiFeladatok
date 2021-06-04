@@ -1,0 +1,29 @@
+﻿1. dia
+TCP/IP modell
+2. dia
+Felépítés
+Alkalmazási réteg
+Szállítási réteg
+Internet réteg
+Hálózat elérési réteg
+3. dia
+Alkalmazási réteg
+Megjelenítés
+Kódolás
+Párbeszédvezérlés
+4.dia
+Szállítási réteg
+Megbízhatóság
+Adatfolyam-vezérlés
+Hibajavítás
+TCP és UDP
+5.dia
+Internet réteg
+Csomagok létrehozása
+Csomagkapcsolás
+Legjobb útvonal
+IP
+6. dia
+Hálózat elérési réteg
+Fizikai összeköttetés
+Hálózati technológiák

@@ -1,0 +1,25 @@
+az	nev	tipus	nem
+1	diszkoszvetés	dobó	férfi
+2	klasszikus stílusú diszkoszvetés	dobó	férfi
+3	kétkezes diszkoszvetés	dobó	férfi
+4	kalapácsvetés	dobó	férfi
+5	magasugrás	ugró	férfi
+6	helyből magasugrás	ugró	férfi
+7	gerelyhajítás	dobó	férfi
+8	szabad stílusú gerelyhajítás	dobó	férfi
+9	kétkezes gerelyhajítás	dobó	férfi
+10	távolugrás	ugró	férfi
+11	helyből távolugrás	ugró	férfi
+12	rúdugrás	ugró	férfi
+13	súlylökés	dobó	férfi
+14	kétkezes súlylökés	dobó	férfi
+15	hármasugrás	ugró	férfi
+16	helyből hármasugrás	ugró	férfi
+21	diszkoszvetés	dobó	női
+24	kalapácsvetés	dobó	női
+25	magasugrás	ugró	női
+27	gerelyhajítás	dobó	női
+30	távolugrás	ugró	női
+32	rúdugrás	ugró	női
+33	súlylökés	dobó	női
+35	hármasugrás	ugró	női

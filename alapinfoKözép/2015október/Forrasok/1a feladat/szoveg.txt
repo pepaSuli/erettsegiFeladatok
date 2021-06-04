@@ -1,0 +1,38 @@
+﻿Pool
+A pool a biliárdjátékok egyik csoportja.
+A poolok sajátsága – a 9 golyós amerikai pool kivételével –, hogy mindkét játékos először a golyók egyik csoportját, majd ezután a fekete golyót igyekszik a lyukakba lökni.
+A szórakozóhelyek népszerű játéka a 8 golyós amerikai pool.
+Kellékei:
+asztal (téglalap alakú, sarkain és hosszanti oldalainak közepén lyukkal),
+dákó,
+fehér lökőgolyó (cue),
+többi golyó: 
+7 sima színes (csak ponttal ellátott),
+7 csíkos színes (ponttal és csíkkal ellátott),
+1 fekete golyó.
+Szabályai:
+A fehér golyó kezdőhelyét mi határozhatjuk meg, de a félkörben kell lennie. 
+Kezdéskor legalább egy golyónak kell a lyukba gurulnia, vagy négynek kell a támfalnak ütköznie. (Ezt a szabályt nem mindig alkalmazzák.) Ha ez nem következik be, az még nem hiba és két lehetőség közül választhatunk: 
+az ellenfél elfogadja az állást
+az ellenfél kezd a másik helyett
+Lövéskor lehet a támfalra is játszani, de akkor a célzott golyót vagy lyukba kell juttatni, vagy a támfalnak lökni. Ha első lökés után nem került színes golyó a lyukba, így nincsenek kiválasztott színek a játékosok részére, akkor érvényes úgy is egy színes golyót belökni, hogy először a fekete golyóhoz érünk.
+Ha kezdéskor mindkét fajta golyó került a lyukba, az választ, aki belökte őket, s újra lök.
+Ha kezdéskor fekete golyó kerül a lyukba, választhatunk:
+ismét felállítjuk az összes golyót a háromszögbe
+a fekete golyót visszahelyezzük az eredeti helyére.
+Amikor a játékos belőtte az összes színes golyóját, meg kell neveznie, hogy melyik lyukba kívánja a feketét belökni. Ha másik lyukba sikerül, a játékos vesztett; ha nem ment be sehova, a további lökéseknél újból megnevezhet egy lyukat. Egy másik szabály szerint abba a lyukba kell belökni a fekete golyót, ami szemben van azzal a lyukkal, ahová utolsó saját színű golyónkat belöktük. Ez esetben viszont később is ide kell lökni, ha elsőre nem megy be.
+Hibák
+
+Fehér golyó kerül a lyukba (érvénytelen lökés); ekkor a fehér golyó a kezdőpontból indul újra.
+A fekete golyó nem utolsónak kerül a lyukba.
+Nem a saját színű golyót találja el a játékos először.
+Az utolsóként lelökött fekete golyóval együtt a fehér is lyukba esik.
+Nem talál el golyót a fehér golyó.
+
+Nem a saját színű golyó kerül a lyukba.
+
+A hibák hatása
+
+A következő játékos kétszer lökhet, de csak akkor, ha már van színes golyó lelökve.
+A játék vége, a játékos vesztett.
+

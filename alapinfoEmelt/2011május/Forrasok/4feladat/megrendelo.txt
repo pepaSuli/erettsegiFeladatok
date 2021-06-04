@@ -1,0 +1,298 @@
+﻿megrendeloazon;nev;varos;lakcim;telefon
+1;Ábrahám Edina;Szeged;Arany János tér 75.;(20) 4578410
+2;Ábrahám Ferenc;Keszthely;Ady Endre tér 7.;(70) 4118142
+3;Ábrahám Lajos;Budapest;Rákóczi Ferenc köz 2.;(20) 4944479
+4;Ábrahám Mariann;Szeged;Kossuth Lajos köz 67.;(30) 3881083
+5;Ábrahám Sándor;Tapolca;Köztársaság sétány 6.;(20) 4905466
+6;Antal Helga;Kiskunfélegyháza;Széchenyi park 57.;(20) 1802966
+7;Antal Klaudia;Siófok;Köztársaság tér 40.;(70) 4614259
+8;Antal Lajos;Kiskunfélegyháza;Nagy Lajos király sétány 30.;(20) 2165628
+9;Antal Zoltán;Tapolca;Báthory utca 50.;(70) 1881724
+10;Balogh András;Szeged;Kossuth Lajos tér 2.;(70) 3329766
+11;Balogh Helga;Kiskunfélegyháza;Radnóti Miklós utca 65.;(20) 3284521
+12;Balogh Lajos;Tapolca;Báthory park 43.;(20) 3980628
+13;Balogh Sándor;Sopron;Arany János tér 63.;(20) 1239853
+14;Baranyai Edina;Sátoraljaújhely;Nagy Lajos király utca 42.;(30) 2293090
+15;Baranyai Etelka;Keszthely;Báthory köz 24.;(30) 2006527
+16;Baranyai Helga;Kiskunfélegyháza;Ady Endre park 77.;(20) 1638375
+17;Baranyai László;Sátoraljaújhely;Nagy Lajos király park 11.;(70) 1242824
+18;Baranyai Sándor;Budapest;Széchenyi park 13.;(30) 1582129
+19;Baranyai Tibor;Pécs;Kossuth Lajos tér 76.;(70) 3550935
+20;Békési Andrea;Kiskunfélegyháza;Bethlen Gábor tér 59.;(70) 1069536
+21;Békési Dénes;Pécs;Báthory park 14.;(30) 3085813
+22;Békési Helga;Tapolca;Liszt Ferenc sétány 45.;(30) 4429013
+23;Békési Katalin;Budapest;Petőfi Sándor utca 36.;(30) 3953783
+24;Békési Katalin;Tapolca;Arany János tér 63.;(70) 3627391
+25;Békési Mariann;Pécs;Radnóti Miklós tér 71.;(30) 1555232
+26;Boros Andrea;Kiskunfélegyháza;Kossuth Lajos tér 52.;(30) 3452385
+27;Boros Attila;Pécs;Kisfaludy tér 31.;(30) 2550519
+28;Boros Sándor;Debrecen;Radnóti Miklós park 40.;(20) 1563565
+29;Boros Tibor;Ózd;Nagy Lajos király sétány 52.;(20) 3203351
+30;Braun Andrea;Szeged;Kossuth Lajos tér 29.;(20) 1984119
+31;Braun Dénes;Keszthely;Nagy Lajos király utca 59.;(20) 2679982
+32;Braun Katalin;Budapest;Mátyás király park 60.;(20) 4203087
+33;Cziglói Anikó;Sopron;Báthory park 24.;(30) 1337951
+34;Cziglói Bálint;Kiskunfélegyháza;Batthyány köz 64.;(30) 4091361
+35;Cziglói Dénes;Győr;Mátyás király sétány 50.;(20) 1624076
+36;Cziglói Edina;Kőszeg;Batthyány utca 76.;(30) 3025360
+37;Cziglói Etelka;Ózd;Ady Endre sétány 41.;(30) 4663099
+38;Cziglói Etelka;Kőszeg;Báthory utca 34.;(30) 4910642
+39;Cziglói Ferenc;Kőszeg;Batthyány utca 20.;(20) 1219580
+40;Cziglói János;Sátoraljaújhely;Radnóti Miklós utca 45.;(30) 4868692
+41;Cziglói Mariann;Debrecen;Radnóti Miklós köz 33.;(70) 4178643
+42;Csala András;Győr;Petőfi Sándor park 53.;(20) 2569796
+43;Csala Attila;Kiskunfélegyháza;Radnóti Miklós köz 15.;(30) 3138417
+44;Csala Etelka;Hatvan;Nagy Lajos király sétány 61.;(70) 2794673
+45;Csala Etelka;Miskolc;Mátyás király tér 35.;(70) 2520493
+46;Csala Etelka;Kőszeg;Rákóczi Ferenc park 56.;(30) 2575443
+47;Csala Ferenc;Ózd;Bethlen Gábor sétány 65.;(70) 2932369
+48;Csala Helga;Győr;Kossuth Lajos köz 23.;(20) 3367420
+49;Csala József;Ózd;Liszt Ferenc tér 34.;(20) 1736305
+50;Csala Judit;Tapolca;Köztársaság sétány 38.;(20) 2224914
+51;Csala Katalin;Miskolc;Petőfi Sándor tér 7.;(20) 2586697
+52;Csikós Bálint;Kőszeg;Köztársaság utca 57.;(30) 1321370
+53;Csikós Edina;Sopron;Arany János park 1.;(20) 4591831
+54;Csikós Ferenc;Tapolca;Petőfi Sándor park 6.;(30) 2729365
+55;Csikós Lehel;Budapest;Széchenyi park 41.;(30) 1867924
+56;Csikós Roland;Szeged;Nagy Lajos király sétány 64.;(30) 2914483
+57;Csikós Tibor;Debrecen;Radnóti Miklós sétány 15.;(20) 3589546
+58;Csikós Tibor;Hatvan;Ady Endre köz 15.;(20) 2437418
+59;Csikós Zoltán;Budapest;Kisfaludy tér 30.;(70) 1081131
+60;Csiszár Andrea;Siófok;Arany János köz 14.;(70) 1196560
+61;Csiszár Dávid;Debrecen;Bethlen Gábor sétány 16.;(30) 2319759
+62;Csiszár Etelka;Sopron;Kisfaludy tér 75.;(30) 4376893
+63;Csiszár Géza;Szeged;Petőfi Sándor tér 18.;(30) 4218576
+64;Csiszár János;Kiskunfélegyháza;Petőfi Sándor park 23.;(20) 1251362
+65;Csiszár Lehel;Debrecen;Batthyány park 52.;(30) 1534691
+66;Csiszár Sándor;Siófok;Bethlen Gábor park 75.;(20) 3263904
+67;Csiszár Zsuzsanna;Sátoraljaújhely;Mátyás király sétány 49.;(70) 4222487
+68;Darázs Andrea;Budapest;Petőfi Sándor utca 45.;(30) 1137689
+69;Darázs Klaudia;Kőszeg;Batthyány tér 68.;(20) 4554716
+70;Darázs Tibor;Győr;Radnóti Miklós sétány 46.;(70) 2672148
+71;Darázs Zoltán;Kiskunfélegyháza;Radnóti Miklós köz 6.;(30) 2775238
+72;Darázs Zoltán;Keszthely;Széchenyi utca 65.;(30) 2307818
+73;Faragó Bálint;Pécs;Radnóti Miklós sétány 36.;(20) 2926535
+74;Faragó Dénes;Ózd;Köztársaság sétány 45.;(20) 3458464
+75;Faragó Etelka;Kőszeg;Mátyás király köz 29.;(30) 2737215
+76;Faragó Etelka;Ózd;Nagy Lajos király utca 72.;(70) 3246700
+77;Faragó Tibor;Debrecen;Petőfi Sándor park 19.;(30) 4272063
+78;Fekete Dávid;Sátoraljaújhely;Mátyás király köz 60.;(70) 4654162
+79;Fekete János;Kőszeg;Radnóti Miklós sétány 75.;(20) 1176031
+80;Fekete Judit;Kőszeg;Arany János köz 56.;(20) 4809119
+81;Fekete Miklós;Debrecen;Batthyány park 26.;(20) 2896508
+82;Fekete Pál;Tapolca;Ady Endre sétány 11.;(30) 2938940
+83;Galambos Attila;Hatvan;Arany János park 57.;(20) 2234310
+84;Galambos Etelka;Tapolca;Petőfi Sándor köz 20.;(20) 4650973
+85;Galambos László;Szeged;Kisfaludy park 38.;(20) 2730571
+86;Galambos Mátyás;Sátoraljaújhely;Ady Endre sétány 16.;(20) 1248038
+87;Galambos Zoltán;Debrecen;Köztársaság tér 1.;(20) 3658663
+88;Gutman Andrea;Sopron;Báthory utca 13.;(30) 4712013
+89;Gutman Bálint;Szeged;Nagy Lajos király sétány 56.;(30) 3105369
+90;Gutman Etelka;Miskolc;Ady Endre tér 33.;(30) 4090874
+91;Gutman Helga;Miskolc;Arany János park 63.;(20) 2473246
+92;Gutman Mariann;Miskolc;Széchenyi utca 24.;(30) 3134313
+93;Gutman Zoltán;Pécs;Báthory utca 9.;(20) 2125759
+94;Halmos Andrea;Tapolca;Radnóti Miklós utca 6.;(30) 3310429
+95;Halmos Attila;Kiskunfélegyháza;Ady Endre park 15.;(20) 3064331
+96;Halmos Helga;Kőszeg;Batthyány köz 57.;(30) 2432400
+97;Halmos Judit;Kőszeg;Nagy Lajos király park 7.;(30) 1315603
+98;Halmos Lajos;Budapest;Rákóczi Ferenc sétány 26.;(30) 3001584
+99;Hegyi Anikó;Pécs;Liszt Ferenc sétány 15.;(70) 2295014
+100;Hegyi József;Miskolc;Petőfi Sándor park 64.;(30) 3476835
+101;Hegyi Katalin;Siófok;Nagy Lajos király tér 45.;(70) 1763703
+102;Hegyi Mariann;Sátoraljaújhely;Liszt Ferenc köz 40.;(30) 1863803
+103;Hegyi Roland;Hatvan;Liszt Ferenc park 53.;(20) 4228669
+104;Hertelendi Edina;Pécs;Kossuth Lajos park 56.;(30) 4477661
+105;Hertelendi Edina;Keszthely;Petőfi Sándor sétány 55.;(20) 1071762
+106;Hertelendi Géza;Sátoraljaújhely;Mátyás király utca 45.;(70) 4558307
+107;Hertelendi Katalin;Miskolc;Liszt Ferenc park 45.;(70) 4892244
+108;Hertelendi Katalin;Szeged;Arany János park 3.;(70) 1035503
+109;Hertelendi Pál;Szeged;Nagy Lajos király sétány 52.;(30) 4043519
+110;Hertelendi Tibor;Sátoraljaújhely;Liszt Ferenc köz 4.;(30) 1037020
+111;Hertelendi Zoltán;Kiskunfélegyháza;Bethlen Gábor utca 33.;(30) 4635049
+112;Hertelendi Zsuzsanna;Pécs;Rákóczi Ferenc park 63.;(20) 3855241
+113;Horkai Andrea;Hatvan;Batthyány köz 64.;(30) 2285590
+114;Horkai Andrea;Sátoraljaújhely;Széchenyi park 79.;(70) 1392331
+115;Horkai Dávid;Szeged;Kisfaludy park 4.;(30) 3809184
+116;Horkai József;Szeged;Báthory tér 36.;(30) 4608494
+117;Horkai Klaudia;Budapest;Petőfi Sándor sétány 4.;(30) 3491907
+118;Horkai Lehel;Keszthely;Rákóczi Ferenc sétány 21.;(70) 3480638
+119;Horváth András;Sopron;Ady Endre utca 51.;(30) 1600840
+120;Horváth Anikó;Debrecen;Batthyány tér 38.;(20) 2861317
+121;Horváth Dávid;Sátoraljaújhely;Ady Endre köz 33.;(30) 2015834
+122;Horváth Etelka;Szeged;Köztársaság tér 12.;(20) 2728949
+123;Horváth Helga;Budapest;Nagy Lajos király utca 67.;(30) 1486322
+124;Horváth Katalin;Hatvan;Rákóczi Ferenc köz 79.;(30) 1868862
+125;Horváth Klaudia;Miskolc;Liszt Ferenc sétány 71.;(20) 4759741
+126;Horváth Zsuzsanna;Kiskunfélegyháza;Rákóczi Ferenc tér 9.;(30) 3286292
+127;Iharos Anikó;Hatvan;Liszt Ferenc utca 27.;(30) 1901633
+128;Iharos Miklós;Pécs;Liszt Ferenc park 49.;(30) 4197427
+129;Iharos Péter;Sátoraljaújhely;Rákóczi Ferenc sétány 47.;(20) 4340255
+130;Iharos Zsuzsanna;Szeged;Arany János sétány 67.;(30) 3451516
+131;Juhász Klaudia;Debrecen;Rákóczi Ferenc park 47.;(30) 1655480
+132;Juhász Mariann;Sopron;Liszt Ferenc park 58.;(70) 2821207
+133;Kádár Dávid;Szeged;Széchenyi utca 9.;(70) 4058471
+134;Kádár János;Győr;Széchenyi utca 43.;(20) 2700331
+135;Kádár Klaudia;Kőszeg;Radnóti Miklós tér 61.;(30) 4090681
+136;Kádár László;Budapest;Batthyány köz 67.;(20) 4290385
+137;Kádár László;Tapolca;Báthory sétány 8.;(20) 2576122
+138;Kádár Mátyás;Győr;Nagy Lajos király sétány 41.;(20) 4926654
+139;Kádár Tibor;Siófok;Ady Endre köz 1.;(70) 1623169
+140;Kalányos Anikó;Hatvan;Liszt Ferenc sétány 23.;(30) 3501806
+141;Kalányos Edina;Győr;Báthory park 11.;(30) 1595080
+142;Kalányos Géza;Ózd;Mátyás király köz 74.;(70) 4060687
+143;Kalányos Helga;Tapolca;Radnóti Miklós sétány 75.;(20) 1705739
+144;Kalányos József;Győr;Bethlen Gábor köz 11.;(30) 3538647
+145;Kalányos Katalin;Ózd;Petőfi Sándor utca 66.;(30) 2044230
+146;Kalányos Pál;Szeged;Kisfaludy köz 69.;(70) 4538349
+147;Kalányos Zoltán;Ózd;Báthory park 26.;(30) 3043518
+148;Kallós Etelka;Debrecen;Kossuth Lajos utca 31.;(20) 2198789
+149;Kallós Zsuzsanna;Pécs;Kossuth Lajos utca 16.;(20) 1537817
+150;Kalóczkai Attila;Tapolca;Mátyás király köz 50.;(30) 3151135
+151;Kalóczkai Bálint;Sátoraljaújhely;Rákóczi Ferenc köz 11.;(30) 1845583
+152;Kalóczkai Dávid;Hatvan;Nagy Lajos király köz 27.;(30) 1508126
+153;Kalóczkai Edina;Kiskunfélegyháza;Kisfaludy köz 22.;(70) 1162723
+154;Kalóczkai Klaudia;Szeged;Liszt Ferenc köz 21.;(30) 4013308
+155;Kalóczkai László;Sátoraljaújhely;Petőfi Sándor köz 59.;(30) 4666084
+156;Kalóczkai Lehel;Sopron;Radnóti Miklós utca 25.;(20) 3072839
+157;Kalóczkai Mariann;Szeged;Petőfi Sándor köz 77.;(30) 3532299
+158;Kalóczkai Miklós;Hatvan;Arany János tér 33.;(20) 3974482
+159;Karsai Dávid;Tapolca;Bethlen Gábor tér 33.;(70) 4398354
+160;Karsai Etelka;Keszthely;Széchenyi utca 45.;(30) 2271054
+161;Karsai Lajos;Pécs;Széchenyi tér 10.;(70) 3150383
+162;Karsai Lehel;Debrecen;Arany János park 24.;(70) 3072842
+163;Karsai Lehel;Budapest;Petőfi Sándor utca 2.;(20) 4264064
+164;Kelemen András;Szeged;Radnóti Miklós utca 35.;(30) 1689464
+165;Kelemen András;Budapest;Kisfaludy köz 78.;(20) 2362236
+166;Kelemen Andrea;Siófok;Batthyány köz 4.;(30) 1673200
+167;Kiss Andrea;Ózd;Széchenyi tér 7.;(30) 4527638
+168;Kiss Bálint;Szeged;Ady Endre utca 65.;(30) 4918335
+169;Kiss Dávid;Kiskunfélegyháza;Köztársaság tér 54.;(70) 4937447
+170;Kiss Helga;Sátoraljaújhely;Széchenyi park 20.;(30) 2644080
+171;Kiss Judit;Debrecen;Bethlen Gábor utca 74.;(30) 4515003
+172;Kiss Klaudia;Kiskunfélegyháza;Mátyás király utca 57.;(20) 2952931
+173;Kiss Péter;Debrecen;Bethlen Gábor sétány 14.;(20) 3815541
+174;Kiss Zoltán;Miskolc;Köztársaság tér 58.;(20) 4374626
+175;Kovács Dávid;Siófok;Bethlen Gábor köz 18.;(70) 3884011
+176;Kovács Dénes;Kiskunfélegyháza;Batthyány park 28.;(70) 4535520
+177;Kovács Edina;Tapolca;Rákóczi Ferenc köz 29.;(70) 1350075
+178;Kovács Edina;Győr;Petőfi Sándor tér 49.;(70) 1053423
+179;Kovács Péter;Keszthely;Köztársaság utca 58.;(30) 3804248
+180;Kovács Tibor;Miskolc;Rákóczi Ferenc köz 13.;(30) 3474194
+181;Latorczai Attila;Szeged;Petőfi Sándor utca 31.;(30) 1044475
+182;Latorczai Roland;Siófok;Széchenyi utca 49.;(30) 2192414
+183;Lengyel József;Hatvan;Rákóczi Ferenc park 16.;(70) 3989404
+184;Lengyel Judit;Miskolc;Báthory sétány 26.;(20) 4008174
+185;Lengyel Judit;Sátoraljaújhely;Petőfi Sándor park 22.;(30) 4676041
+186;Lengyel Klaudia;Kiskunfélegyháza;Arany János tér 46.;(30) 3533519
+187;Lengyel László;Miskolc;Ady Endre köz 58.;(30) 2318397
+188;Lengyel Miklós;Hatvan;Kossuth Lajos tér 30.;(20) 1785968
+189;Lukács Bálint;Hatvan;Köztársaság park 66.;(30) 3957278
+190;Lukács Ferenc;Sátoraljaújhely;Báthory park 24.;(30) 3661015
+191;Lukács János;Győr;Széchenyi sétány 9.;(70) 1568723
+192;Lukács József;Tapolca;Batthyány sétány 15.;(30) 2288577
+193;Lukács Mariann;Tapolca;Arany János park 52.;(20) 1341375
+194;Magyar Andrea;Debrecen;Köztársaság utca 44.;(70) 4312181
+195;Magyar Anikó;Miskolc;Radnóti Miklós sétány 57.;(30) 4588322
+196;Magyar Bálint;Ózd;Petőfi Sándor köz 4.;(30) 3199457
+197;Magyar Edina;Miskolc;Kisfaludy park 49.;(30) 1759563
+198;Magyar Helga;Pécs;Batthyány sétány 29.;(20) 4803765
+199;Magyar Mariann;Győr;Kossuth Lajos tér 27.;(30) 3136235
+200;Máté Katalin;Sátoraljaújhely;Arany János köz 17.;(20) 2632326
+201;Máté Katalin;Keszthely;Kisfaludy tér 28.;(30) 4009124
+202;Máté Zsuzsanna;Szeged;Kisfaludy park 49.;(20) 1816705
+203;Molnár Anikó;Pécs;Batthyány köz 42.;(20) 4394725
+204;Molnár Anikó;Hatvan;Petőfi Sándor köz 35.;(30) 1255257
+205;Molnár Etelka;Debrecen;Bethlen Gábor sétány 18.;(20) 3334063
+206;Molnár János;Ózd;Radnóti Miklós utca 64.;(30) 2470282
+207;Molnár Judit;Keszthely;Ady Endre sétány 2.;(30) 2914943
+208;Molnár Katalin;Siófok;Széchenyi sétány 1.;(20) 1941964
+209;Molnár Roland;Hatvan;Rákóczi Ferenc sétány 30.;(30) 3078799
+210;Nagy Anikó;Győr;Petőfi Sándor park 6.;(30) 1439575
+211;Nagy Anikó;Debrecen;Petőfi Sándor park 40.;(20) 1293547
+212;Nagy Attila;Tapolca;Széchenyi köz 70.;(20) 4561780
+213;Nagy Edina;Győr;Mátyás király sétány 7.;(30) 4377716
+214;Nagy Etelka;Tapolca;Bethlen Gábor sétány 47.;(20) 1662267
+215;Nagy Ferenc;Tapolca;Széchenyi tér 46.;(20) 3135144
+216;Nagy János;Kőszeg;Arany János park 3.;(20) 3801720
+217;Nagy Lajos;Kiskunfélegyháza;Rákóczi Ferenc tér 31.;(70) 4445688
+218;Nagy Lehel;Siófok;Köztársaság tér 76.;(70) 1206072
+219;Nagy Lehel;Miskolc;Bethlen Gábor köz 79.;(30) 1496964
+220;Nagy Péter;Keszthely;Nagy Lajos király park 22.;(30) 4557584
+221;Nyári Andrea;Siófok;Bethlen Gábor utca 76.;(30) 4986302
+222;Nyári Helga;Tapolca;Arany János sétány 11.;(20) 4208133
+223;Nyári Katalin;Kiskunfélegyháza;Petőfi Sándor sétány 13.;(20) 2728680
+224;Nyári László;Tapolca;Báthory sétány 4.;(20) 3585551
+225;Nyári Lehel;Ózd;Kossuth Lajos tér 12.;(20) 4099683
+226;Salamon András;Sátoraljaújhely;Petőfi Sándor park 35.;(30) 4168049
+227;Salamon Ferenc;Ózd;Radnóti Miklós sétány 70.;(30) 1584173
+228;Salamon Klaudia;Sopron;Mátyás király köz 52.;(30) 1392035
+229;Salamon Zsuzsanna;Ózd;Rákóczi Ferenc park 39.;(20) 2992431
+230;Szabó Anikó;Szeged;Arany János tér 66.;(20) 3426920
+231;Szabó Mariann;Sátoraljaújhely;Ady Endre park 20.;(30) 1142221
+232;Szalontai László;Sopron;Báthory tér 51.;(70) 4280190
+233;Szalontai Mátyás;Miskolc;Ady Endre park 9.;(70) 1206996
+234;Szalontai Zoltán;Miskolc;Rákóczi Ferenc sétány 36.;(30) 3655302
+235;Szikszai András;Kiskunfélegyháza;Batthyány utca 2.;(20) 2747431
+236;Szikszai Edina;Siófok;Mátyás király sétány 43.;(20) 4129167
+237;Szikszai Mariann;Kőszeg;Széchenyi park 62.;(20) 2985957
+238;Szikszai Miklós;Tapolca;Liszt Ferenc park 39.;(30) 1594443
+239;Szikszai Miklós;Budapest;Rákóczi Ferenc köz 2.;(20) 3838588
+240;Szűcs Dénes;Sátoraljaújhely;Petőfi Sándor tér 58.;(30) 4234825
+241;Szűcs Helga;Debrecen;Köztársaság tér 68.;(30) 1816559
+242;Szűcs Katalin;Ózd;Báthory park 9.;(30) 1922904
+243;Szűcs Miklós;Szeged;Rákóczi Ferenc park 68.;(20) 2766612
+244;Tallós Géza;Miskolc;Mátyás király park 49.;(30) 1974698
+245;Tallós László;Sátoraljaújhely;Liszt Ferenc köz 61.;(30) 2203570
+246;Tallós Sándor;Pécs;Radnóti Miklós utca 71.;(20) 4602346
+247;Toller András;Miskolc;Arany János park 76.;(70) 3902066
+248;Toller Anikó;Kiskunfélegyháza;Batthyány utca 6.;(20) 2705559
+249;Toller Anikó;Keszthely;Liszt Ferenc sétány 44.;(20) 4677147
+250;Toller Edina;Szeged;Ady Endre tér 18.;(20) 3003833
+251;Toller Edina;Sátoraljaújhely;Radnóti Miklós sétány 62.;(30) 1728713
+252;Toller János;Budapest;Széchenyi tér 9.;(70) 4213553
+253;Toller Judit;Sátoraljaújhely;Nagy Lajos király park 62.;(20) 2967714
+254;Toller Katalin;Debrecen;Bethlen Gábor park 20.;(30) 4483233
+255;Toller Klaudia;Budapest;Nagy Lajos király sétány 23.;(70) 4490854
+256;Toller Klaudia;Sátoraljaújhely;Arany János tér 61.;(70) 4936593
+257;Toller Lajos;Győr;Kisfaludy tér 47.;(30) 2025312
+258;Tóth Attila;Ózd;Arany János köz 66.;(30) 2763341
+259;Tóth Helga;Hatvan;Bethlen Gábor tér 58.;(20) 4161990
+260;Tóth Judit;Miskolc;Radnóti Miklós sétány 25.;(30) 1213238
+261;Turai Helga;Ózd;Széchenyi sétány 6.;(70) 3049809
+262;Turai Mariann;Siófok;Radnóti Miklós utca 63.;(30) 1243335
+263;Turai Tibor;Siófok;Báthory park 43.;(30) 3464870
+264;Vállas Attila;Sátoraljaújhely;Radnóti Miklós sétány 55.;(30) 1037072
+265;Vállas Attila;Siófok;Radnóti Miklós utca 75.;(30) 4593635
+266;Vállas Helga;Budapest;Liszt Ferenc utca 49.;(20) 2967826
+267;Vállas Mariann;Keszthely;Báthory park 52.;(70) 1221291
+268;Veres Anikó;Sopron;Bethlen Gábor park 9.;(20) 4588128
+269;Veres Anikó;Kiskunfélegyháza;Köztársaság park 22.;(20) 1803919
+270;Veres Dávid;Szeged;Rákóczi Ferenc utca 10.;(30) 1664863
+271;Veres Edina;Miskolc;Rákóczi Ferenc sétány 76.;(20) 2831311
+272;Veres Ferenc;Ózd;Arany János tér 7.;(30) 3243291
+273;Veres Helga;Kiskunfélegyháza;Báthory tér 59.;(20) 2272283
+274;Veres Judit;Tapolca;Radnóti Miklós park 44.;(20) 1149967
+275;Veres Judit;Szeged;Bethlen Gábor köz 1.;(30) 1598133
+276;Veres Klaudia;Sopron;Kisfaludy sétány 39.;(30) 2717629
+277;Veres Lajos;Sátoraljaújhely;Kossuth Lajos tér 70.;(70) 1179819
+278;Veres Mátyás;Tapolca;Kisfaludy utca 68.;(70) 2677054
+279;Veres Péter;Hatvan;Kisfaludy park 6.;(20) 4969422
+280;Veres Zsuzsanna;Siófok;Petőfi Sándor tér 2.;(30) 2132346
+281;Zakariás Ferenc;Győr;Radnóti Miklós sétány 61.;(70) 2170415
+282;Zakariás Mariann;Keszthely;Arany János köz 19.;(30) 1096474
+283;Zakariás Mátyás;Győr;Petőfi Sándor park 23.;(30) 1135003
+284;Zakariás Péter;Hatvan;Arany János sétány 76.;(30) 2123742
+285;Zanai Etelka;Kiskunfélegyháza;Ady Endre utca 65.;(30) 4079783
+286;Zanai Géza;Keszthely;Bethlen Gábor utca 80.;(70) 1031665
+287;Zanai Klaudia;Sátoraljaújhely;Rákóczi Ferenc köz 16.;(30) 2392133
+288;Zoltai Andrea;Ózd;Mátyás király köz 73.;(30) 2993717
+289;Zoltai Helga;Ózd;Ady Endre köz 74.;(70) 1034765
+290;Zoltai Helga;Hatvan;Radnóti Miklós tér 42.;(70) 1839747
+291;Zoltai Helga;Miskolc;Széchenyi tér 39.;(30) 3288871
+292;Zoltai Pál;Ózd;Batthyány tér 12.;(30) 1477899
+293;Zoltai Zsuzsanna;Sátoraljaújhely;Batthyány park 68.;(30) 2558260
+294;Zsemle Lehel;Kiskunfélegyháza;Arany János park 47.;(30) 4030350
+295;Zsemle Roland;Szeged;Radnóti Miklós park 73.;(20) 2457561
+296;Zsemle Roland;Sátoraljaújhely;Batthyány utca 75.;(70) 2453573
+297;Zsemle Zsuzsanna;Szeged;Köztársaság utca 62.;(30) 2967863

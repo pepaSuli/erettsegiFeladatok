@@ -1,0 +1,37 @@
+﻿Rövid ismertetés a statikus weblapok törzsének alapbeállításaihoz
+Az oldal internet böngészőben megjelenített formázott tartalmát a weblap törzsében a <body> és </body> elemek között adhatjuk meg. A weblap alapértelmezett formai beállításainak egy részét a <body> elem paramétereként adjuk meg. Az itt elvégezhető beállítások és az ezekhez tartozó paraméterek és megadási lehetőségei a következők:
+A háttér beállítása
+A háttérszín paramétere a bgcolor. A szín értékének megadása történhet a szín hexadecimális kódjával, vagy a szín angol nevével. Pl.:
+… bgcolor=”#DEB887” …
+vagy
+… bgcolor=”burlywood” …
+A háttérkép paramétere a background, melynek értéke a kép URL-je. A háttérkép alapértelmezetten gördítéskor a szöveggel együtt gördül. Megoldható azonban, hogy a szöveg az álló háttérkép előtt gördüljön. Ehhez a háttérképet rögzíteni kell, amit a bgproperties paraméterrel végezhetünk el. Pl.:
+… background=”..//kep/hatter.jpg” bgproperties=”fixed” …
+A szöveg színének beállítása
+A weblapok szövegének alapértelmezett színe a text paraméterrel állítható be. A szöveg színének értéke – a háttérszínhez hasonlóan – a szín hexadecimális kódjával, vagy az angol nevével adható meg. Pl.:
+… text=”#800000” …
+vagy
+… text=”maroon” …
+A weblapok hivatkozásokat megvalósító szövegrészeit a linkeket nem tartalmazó szövegtől eltérő színűre formázhatjuk. A linkek három különböző állapottal rendelkeznek, mely állapotok színe külön-külön megadható a link (alapállapotú link), a vlink (már látogatott link) és az alink (kattintáskor éppen aktív link) paraméterekkel. A linkek egyes állapotainak színe az előzőekben megismert módon adható meg. Pl.:
+… link=”black” vlink=”#000080” alink=”orangered” …
+vagy
+… link=”#000000” vlink=”navy” alink=”#FF4500” …
+A weblap margóméreteinek beállítása
+A weblapok bal oldali, jobb oldali, felső és alsó margóinak mérete beállítható rendre a leftmargin, rightmargin, topmargin, bottommargin paramétereknek adott értékekkel. A beállítandó margók méretét pixelben kell megadnunk. Ha nem szeretnénk minden margót megadni, akkor annak paraméterét nem tüntetjük fel. Pl.:
+… leftmargin=”50” rightmargin=”50” topmargin=””30” …
+A bal és jobb oldali, illetve az alsó és felső margó páronként egyforma méretre is beállítható a marginwidth, illetve a marginheight paraméterekkel. Pl.:
+… marginwidth=”50” marginheight=”30” …
+A következő oldalon egy HTML kód, majd az ennek hatására megjelenő weblap képernyőképe látható.
+Kód
+<html>
+<head>
+<title>A weblap törzse
+</title>
+</head>
+<body bgcolor="burlywood" text="#800000" link=”#000000” vlink=”navy” alink=”#FF4500” marginwidth="60" topmargin="20">
+<p align="justify">Ez a weblap a weblap törzsének formai beállítának példán keresztül történő bemutatására készült. A weblap háttérszíne burlywood, szövegszínének hexadecimális kódja 800000, bal és jobb oldali margója 60 pixel széles, a felső margójának mérete pedig 20 pixel. A weblapon található hivatkozások színe alapállapotban 000000 kódú fekete, látogatott állapotban navy, aktív állapotban pedig FF4500 kódú orangered.</p>
+<p align="left">A HTML kódról többet <a href= "http://www.standardsmode.hu/"> itt </a> olvashatunk.</p>
+</body>
+</html>
+Weblap
+

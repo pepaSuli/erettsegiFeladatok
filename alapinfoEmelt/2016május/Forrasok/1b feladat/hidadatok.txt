@@ -1,0 +1,19 @@
+﻿A híd neve	Szerkezettípus	Funkció	Legnagyobb támaszköz	Nyílások száma	Teljes hosszúság	Szélesség	Első átadás ideje	Utolsó átadás ideje	Egyszer átadott híd	Első átadás az első híd után
+Megyeri híd	ferdekábeles híd, gerendahíd	közúti híd	300	27	1861,35	36,16	2008	2008		
+Újpesti vasúti híd	rácsos acélhíd	vasúti híd	93	8	673,4	11,64	1896	2008		
+K-híd	rácsos acélhíd K-elemekből	közúti és gyaloghíd	98	1	98	7,7	1955	1955		
+Hajógyári híd	befüggesztett vasbeton	közúti és gyaloghíd	55,6	1	55,6	9	1858	1968		
+Árpád híd	gerinclemezes, felső pályás gerendahíd	közúti híd	103	12	981	27,6	1950	1984		
+Margit híd	kétcsuklós ívhíd	közúti híd	87,88	6	607,6	25	1876	2011		
+Széchenyi lánchíd	függőhíd	közúti híd	203	3	380	14,8	1849	1949		
+Erzsébet híd	függőhíd	közúti híd	290	3	378,6	27,1	1903	1964		
+Szabadság híd	rácsos Gerber-híd	közúti híd	170,75	3	333,6	20,1	1896	2009		
+Petőfi híd	rácsos gerendahíd	közúti híd	154	3	378	25,6	1937	1952		
+Összekötő vasúti híd	rácsos acélhíd	vasúti híd	130	4	477	7,5	1877	1953		
+Rákóczi híd	acél gerendahíd	közúti híd	94,72	6	494,8	30,6	1995	1995		
+Kvassay híd	felsőpályás és rácsos gerendahíd	közúti, gyalog- és vasúti híd	47,2	2	97,4	21	1927	2006		
+Gubacsi híd	Rácsos gerendahíd	vasúti, közúti és gyaloghíd	42	6	145,5	18	1924	1947		
+Deák Ferenc híd	acél gerendahíd	közúti híd	108,5	9	700	35	1990	1990		
+										
+										
+A gerenda szerkezetű hidak száma:										

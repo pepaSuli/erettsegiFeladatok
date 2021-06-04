@@ -1,0 +1,6 @@
+"v001";"FutaPest";2001.6.1 0:00:00;"Budapest"
+"v002";"Marathon I.";2001.4.26 0:00:00;"Debrecen"
+"v003";"Marathon II.";2001.7.15 0:00:00;"Sopron"
+"v004";"Kihívás Napja";2001.5.22 0:00:00;"Dunaújváros"
+"v005";"Európai Bajnokság";2000.6.6 0:00:00;"Bécs"
+"v006";"Olimpia";2000.8.1 0:00:00;"Sydney"

@@ -1,0 +1,27 @@
+1;"13211234563";1;"Megölték Ferdinándot";1
+2;"13211234563";5;"Elfogták Ferdinánd gyilkosát";2
+3;"17002255853";4;"Milyen volt az adatbáziskezelés dolgozat";4
+4;"17002255853";4;"Jól sikerüt feleletek a IV.D-ben";2
+5;"13911176247";6;"Olimpia az Olümposzon";5
+6;"13211234563";2;"Emléktábla-avatás Döbrögön";2
+7;"14712241563";3;"Megszólal a csatár";3
+8;"26604122311";1;"Folyó a híd fölött";5
+9;"13506129364";1;"Fenyõ Miki a Kolibri-Bárban";4
+10;"25603171111";4;"FTC-Répcelaki Szénsavas: 2-8";2
+11;"17608256742";6;"Az adóvevõnél Fa Nándor";3
+12;"24907237465";5;"Megtelt a Szeméttelep Hugyagon";1
+13;"15108092846";2;"Gömbölyû-Gombóc-Gombolyú-Gömbõc";5
+14;"13911176247";3;"Megszólal a Néma Levente ...";4
+15;"13506129364";1;"Elindult a radzivi körverseny";2
+16;"24907237465";5;"Hajmási Péter, merre jár a Pál";3
+17;"13506129364";4;"Kitört az Etna";1
+18;"15108092846";2;"Azok a 90-es évek ...";4
+19;"25603171111";3;"Pörög a csiga, õrzi síkját";5
+20;"13506129364";6;"Megnyílt a tejcsarnok az alagsorban";2
+21;"14712241563";4;"... és engem senki sem kérdezett";3
+22;"17608256742";3;"Ledõlt mielõtt felépült volna";2
+23;"26604122311";3;"Beszélõ tevék a veszprémi állatkertben";4
+24;"13911176247";2;"És ön hogy van?";3
+25;"26604122311";1;"Felépült mielõtt ledõlt volna";2
+26;"15108092846";4;"Leesett a hó, szerteszét fehérség";1
+27;"13506129364";3;"Van-e van vagy nincs-e nincs";5

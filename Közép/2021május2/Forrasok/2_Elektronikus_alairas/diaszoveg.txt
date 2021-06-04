@@ -1,0 +1,24 @@
+﻿1. dia
+Elektronikus aláírás
+
+2. dia
+Fogalmak
+Elektronikus aláírás
+elektronikusan aláírt elektronikus dokumentumhoz azonosítás céljából logikailag hozzárendelt vagy azzal elválaszthatatlanul összekapcsolt elektronikus adat.
+Aláírás-létrehozó adat
+kriptográfiai magánkulcs, az aláíró az elektronikus aláírás létrehozásához használja.
+Aláírás-ellenőrző adat
+kriptográfiai nyilvános kulcs, az elektronikusan aláírt elektronikus dokumentum aláírás ellenőrzésére használják.
+Aláírás-létrehozó eszköz
+olyan hardver, illetve szoftver eszköz, melynek segítségével az elektronikus aláírás létrehozható.
+
+3. dia
+Megvalósítása
+Nyilvános kulcsú infrastruktúra
+Az aláírást létrehozónak van egy titkos (aláírás-létrehozó adat) és egy nyilvános kulcsa (aláírás-ellenőrző adat)
+Hitelesítésszolgáltató
+Az aláírást létrehozót hitelesíti, egy tanúsítványt állít ki, amely többek között az aláírást létrehozó nyilvános kulcsát tartalmazza.
+Hash
+Olyan függvény, amely tetszőleges hosszúságú adatból egy adott hosszúságú adatot képez.
+4. dia
+Elektronikus aláírás folyamata

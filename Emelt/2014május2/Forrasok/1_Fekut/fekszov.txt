@@ -1,0 +1,32 @@
+﻿1.dia
+Fékút, féktávolság, reakcióidő
+Féktávolság = a reakcióidő alatt megtett út + a fékezés kezdetétől a megállásig megtett út
+2.dia
+A reakcióidő függ a vezető állapotától
+életkor, egészségi állapot, fáradtság
+vezetői gyakorlat
+fiziológiai okok (pl. éhség, fejfájás stb.)
+pszichológiai okok (pl. öröm, bánat stb.)
+különleges hatás (pl. ijedtség, alkoholhatás, gyógyszerhatás)
+felkészültség
+3.dia
+Miért hatékonyabb hidegben a téli gumi?
+Anyag
+7 Celsius-fok alatt a nyári gumiabroncsok anyaga megkeményedik és elveszítik tapadóképességüket
+A téli gumik alapanyaga hidegben is rugalmas marad és megőrzi tapadását
+Mintázat
+Bordák
+A téli gumi sűrűbb bordázatú
+Megbízható fékhatást és kipörgés nélküli indulást eredményez
+4.dia
+Fékutak különböző tapadású felületeken
+30 km/órás sebességnél jeges úton
+57 m
+Téli gumi
+68 m
+Nyári gumi
+50 km/órás sebességnél havas úton
+35 m
+Téli gumi
+43 m
+Nyári gumi

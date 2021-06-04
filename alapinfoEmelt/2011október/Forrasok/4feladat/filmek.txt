@@ -1,0 +1,13 @@
+"FAZON";"FCIM";"GYEV";"SZTECHN";"HOSSZ"
+1;"Hajnali fények";1986;"színes";95
+2;"Huszonkettõ";1965;"fekete-fehér";123
+3;"Menekülés az erdõbõl";1990;"színes";87
+4;"Hajolj hozzám!";2001;"színes";103
+5;"Denevérek röpte";1976;"színes";187
+6;"Vasúti történet";1994;"színes";110
+7;"Az ember aki nem járt még ott";1994;"színes";98
+8;"Hatalmas szárnyak";2003;"fekete-fehér";150
+9;"Gombfoci életre halálra";1969;"fekete-fehér";86
+10;"Gyilkos expressz";2005;"színes";123
+11;"A drótos tót";1978;"fekete-fehér";85
+12;"Béke és szerelem";1976;"színes";97

@@ -1,0 +1,56 @@
+------------------------------------------------------------------
+Középszintû írásbeli érettségi feladatok
+megoldásai informatikai alapismeretek tárgyból
+2006. májusi vizsgaidõszak.
+------------------------------------------------------------------ 
+
+
+Megjegyzések a feladatok megoldásaihoz.
+
+
+1. Az egyes feladatok megoldásait az alábbi fájlok tartalmazzák:
+
+   középszint               
+   1. feladat: kf1.pas       
+   2. feladat: kf2.pas
+   3. feladat: kf3.pas
+   4. feladat: kf4.txt
+
+2. A középszint elsõ három feladatának megoldása
+   a Free PASCAL 2.0 rendszerben készült, mely letölthetõ
+   a www.freepascal.org oldalról.
+
+3. A középszint 3. feladata egy bemeneti állományt igényel.
+   A megoldásban feltételezzük, hogy ez a fájl a 
+   c:\segedanyag\ECegArf.txt helyen és néven megtalálható. 
+   Amennyiben a fájl máshol található a megoldásban az 
+   inputfilenev konstans értékét értelemszerûen módosítani kell.
+
+4. A középszint 4. feladatának megoldását OpenOffice 2.0 
+   rendszerben készítettük és ellenõriztük. Megoldásként itt 
+   csak a lekérdezések szerepelnek SQL nyelven.
+
+5. A Pascalban adott megoldásoknál nem törekedtünk arra, hogy
+   az egyes feladatrészeket külön modulokban, eljárásokban 
+   valósítsuk meg. Hangsúlyt fektettünk azonban arra, hogy
+   a forráskód tördelésével és megjegyzések alkalmazásával
+   a feladat kiírásának megfelelõ logikai egységekre bontsuk
+   a megoldást.
+
+6. A középszint 3. feladata egy szélsõérték hely meghatározást tûz ki. 
+   A feladat szövege nem zárja ki, hogy a  maximum vagy minimum értékeket 
+   az adatsor egy vagy több helyen veszi, veheti fel. 
+   A mintamegoldásokban feltételezzük, hogy az adatsor több 
+   helyen is felveheti legkissebb, illetve legnagyobb értékét. 
+   A feladatkiírás nem említi, a megoldás során azonban 
+   feltételeztük azt is, hogy a bemenõ adatsorok nem üresek. 
+   Abban az esetben ha meg akarjuk engedni üres adatsorok 
+   használatát is, a megoldásban az adatsorok ürességét a 
+   szélsõérték keresések elõtt vizsgálni kell, és amennyiben 
+   azok üresnek bizonyulnának, a keresések végrehajtását nem 
+   szabad megengedni.
+
+------------------------------------------------------------------ 
+   
+   
+   
