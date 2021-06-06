@@ -2652,6 +2652,11 @@ let feladatok=[{"url":"alapinfoEmelt/2017május","szint":"Emelt  sz. 2017-től",
 			"access","forras":["arusitohely.txt","nyitvatartas.txt"],
 			"megoldas":["piac_ab.accdb"],"megoldasUrl":"/Megoldasok/3_Piacok"}},
 {"url":"Emelt/2019május2","szint":"Emelt","ev":2019,"honap":"május2","feladat":
+			{"url":"/Forrasok/3_Piacok","szam":3,"feladatlap":"feladatlap3.pdf",
+			"nev":"Piacok","tipus":
+			"sql","forras":["adatok.sql","tablak.sql"],
+			"megoldas":["megoldasok.sql"],"megoldasUrl":"/Megoldasok/3_Piacok"}},
+{"url":"Emelt/2019május2","szint":"Emelt","ev":2019,"honap":"május2","feladat":
 			{"url":"/Forrasok/4_Tantargyfelosztas","szam":4,"feladatlap":"feladatlap4.pdf",
 			"nev":"Tantárgyfelosztás","tipus":
 			"programozás","forras":["beosztas.txt"],
@@ -3789,16 +3794,6 @@ let feladatok=[{"url":"alapinfoEmelt/2017május","szint":"Emelt  sz. 2017-től",
 			"nev":"Pólórendelés","tipus":
 			"excel","forras":["poloadat.txt"],
 			"megoldas":["polorendeles.xlsx"],"megoldasUrl":"/Megoldasok/3_Polorendeles"}},
-{"url":"Közép/2021május","szint":"Közép","ev":2021,"honap":"május","feladat":
-			{"url":"/Forrasok/4_Teljesitok","szam":4,"feladatlap":"feladatlap4.pdf",
-			"nev":"Teljesítők","tipus":
-			"access","forras":["szolgaltatas.txt","ugyfel.txt"],
-			"megoldas":["teljesitok.accdb"],"megoldasUrl":"/Megoldasok/4_Teljesitok"}},
-{"url":"Közép/2021május","szint":"Közép","ev":2021,"honap":"május","feladat":
-			{"url":"/Forrasok/4_Teljesitok","szam":4,"feladatlap":"feladatlap4.pdf",
-			"nev":"Teljesítők","tipus":
-			"sql","forras":["forras.sql","megoldasok.sql"],
-			"megoldas":["megoldas.sql"],"megoldasUrl":"/Megoldasok/4_Teljesitok"}},
 
 {"url":"Közép/2021május2","szint":"Közép","ev":2021,"honap":"május2","feladat":
 			{"url":"/Forrasok/1_Ujraelesztes","szam":1,"feladatlap":"feladatlap1.pdf",
@@ -3820,6 +3815,177 @@ let feladatok=[{"url":"alapinfoEmelt/2017május","szint":"Emelt  sz. 2017-től",
 			"nev":"Vetítések","tipus":
 			"access","forras":["eloadas.txt","mozi.txt"],
 			"megoldas":["vetitesek.accdb"],"megoldasUrl":"/Megoldasok/4_Vetitesek"}},
+
+
+{	"url":"Emelt/2018május",
+	"szint":"Emelt",	
+	"ev":2018,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/3_Jozsef_Attila-dijasok",
+		"szam":3,
+		"feladatlap":"feladatlap3.pdf",
+		"nev":"József Attila-díjasok",
+		"tipus":"sql",
+		"forras":["forras.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/3_Jozsef_Attila-dijasok"
+		}
+},
+{	"url":"Emelt/2011május",
+	"szint":"Emelt",	
+	"ev":2011,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/3_Tanc",
+		"szam":3,
+		"feladatlap":"feladatlap3.pdf",
+		"nev":"Tánc",
+		"tipus":"sql",
+		"forras":["forras.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/3_Tánc"
+		}
+},
+{	"url":"Közép/2012október",
+	"szint":"Közép",	
+	"ev":2012,
+	"honap":"október",
+	"feladat":{
+		"url":"/Forrasok/4_A_C_Kiado",
+		"szam":4,
+		"feladatlap":"feladatlap4.pdf",
+		"nev":"A. C. Kiadó",
+		"tipus":"sql",
+		"forras":["forras.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/4_A_C_Kiado"
+		}
+},
+{	"url":"Közép/2018május2",
+	"szint":"Közép",	
+	"ev":2018,
+	"honap":"május2",
+	"feladat":{
+		"url":"/Forrasok/4_Hulladekudvar",
+		"szam":4,
+		"feladatlap":"feladatlap4.pdf",
+		"nev":"Hulladékudvar",
+		"tipus":"sql",
+		"forras":["forras.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/4_Hulladekudvar"
+		}
+},
+{	"url":"Közép/2006május",
+	"szint":"Közép",	
+	"ev":2006,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/5_Kosarlabda",
+		"szam":5,
+		"feladatlap":"feladatlap4.pdf",
+		"nev":"Kosárlabda",
+		"tipus":"sql",
+		"forras":["forras.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/5_Kosarlabda"
+		}
+},
+
+{	"url":"Közép/2008május",
+	"szint":"Közép",	
+	"ev":2008,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/5_Vizallas",
+		"szam":5,
+		"feladatlap":"feladatlap5.pdf",
+		"nev":"Vízállás",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/5_Vizallas"
+		}
+},
+
+{	"url":"Közép/2007május",
+	"szint":"Közép",	
+	"ev":2007,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/5_Hajomenetrend",
+		"szam":5,
+		"feladatlap":"feladatlap5.pdf",
+		"nev":"Hajómenetrend",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/5_Hajomenetrend"
+		}
+},
+{	"url":"Közép/2011május",
+	"szint":"Közép",	
+	"ev":2011,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/4_Barlang",
+		"szam":4,
+		"feladatlap":"feladatlap4.pdf",
+		"nev":"Barlang",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/4_Barlang"
+		}
+},
+{	"url":"Emelet/2010május",
+	"szint":"Emelt",	
+	"ev":2010,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/3_Kossuth_dij",
+		"szam":3,
+		"feladatlap":"feladatlap3.pdf",
+		"nev":"Kossuth-díj",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/3_Kossuth_dij"
+		}
+},
+
+{	"url":"Közép/2019október",
+	"szint":"Közép",	
+	"ev":2019,
+	"honap":"október",
+	"feladat":{
+		"url":"/Forrasok/4_Cukraszda",
+		"szam":4,
+		"feladatlap":"feladatlap4.pdf",
+		"nev":"Cukrászda",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql","megoldasok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/4_Cukraszda"
+		}
+},
+
+{	"url":"Emelt/2014május2",
+	"szint":"Emelt",	
+	"ev":2014,
+	"honap":"május",
+	"feladat":{
+		"url":"/Forrasok/3_Slagerlista",
+		"szam":3,
+		"feladatlap":"feladatlap3.pdf",
+		"nev":"Slágerlista",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql","megoldasok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/3_Slagerlista"
+		}
+},
 
 ];
 			
