@@ -3986,6 +3986,20 @@ let feladatok=[{"url":"alapinfoEmelt/2017május","szint":"Emelt  sz. 2017-től",
 		"megoldasUrl":"/Megoldasok/3_Slagerlista"
 		}
 },
-
+{	"url":"Emelt/2005október",
+	"szint":"Emelt",	
+	"ev":2005,
+	"honap":"október",
+	"feladat":{
+		"url":"/Forrasok/3_Mataku",
+		"szam":3,
+		"feladatlap":"feladatlap3.pdf",
+		"nev":"Mataku",
+		"tipus":"sql",
+		"forras":["tablak.sql","adatok.sql","megoldasok.sql"],
+		"megoldas":["megoldasok.sql"],
+		"megoldasUrl":"/Megoldasok/3_Mataku"
+		}
+},
 ];
 			
